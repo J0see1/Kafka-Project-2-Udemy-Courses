@@ -19,7 +19,7 @@ for message in consumer:
     batch.append(message.value.decode('utf-8'))
 
     if len(batch) >= batch_size:
-        with open(f'{output_dir}/batch_{batch_count}.csv', 'w') as f:
+        with open(f'{output_dir}/batch_{batch_count}.csv', 'w', encoding='utf-8') as f:
             f.write('\n'.join(batch))
         print(f'Saved batch {batch_count} with {len(batch)} records')
         
@@ -28,7 +28,7 @@ for message in consumer:
 
 #  jika ada sisa data maka akan dimasukin ke batch terakhir
 if batch:
-    with open(f'{output_dir}/batch_{batch_count}.csv', 'w') as f:
+    with open(f'{output_dir}/batch_{batch_count}.csv', 'w', encoding='utf-8') as f:
         f.write('\n'.join(batch))
     print(f'Saved batch {batch_count} with {len(batch)} records')
 
