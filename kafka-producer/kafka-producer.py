@@ -1,4 +1,5 @@
 import time
+import random
 import csv
 from kafka import KafkaProducer
 
@@ -15,6 +16,6 @@ with open('dataset/udemy_courses_dataset.csv', 'r') as file:
         producer.send(topic_name, message)
         print(f'Sent: {message}')
         
-        time.sleep(5)
+    time.sleep(random.uniform(0.1, 1.0))
 
 producer.close()
