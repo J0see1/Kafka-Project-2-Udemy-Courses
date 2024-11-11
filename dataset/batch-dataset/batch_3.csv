@@ -1,3 +1,4 @@
+course_id,course_title,url,is_paid,price,num_subscribers,num_reviews,num_lectures,level,content_duration,published_timestamp,subject
 741316,Piano With Willie: Jazz Kids - Vol 2,https://www.udemy.com/piano-with-willie-jazz-kids-vol-2/,True,40,17,0,38,Beginner Level,3.0,2016-04-13T05:57:35Z,Musical Instruments
 681390,Practice guitar with no previous experience and become a pro,https://www.udemy.com/practice-guitar-with-no-previous-experience-and-become-a-pro/,True,30,26,0,14,Beginner Level,1.0,2017-01-13T17:26:06Z,Musical Instruments
 1195742,The Music Coach Online Spirit Drum Course,https://www.udemy.com/the-music-coach-online-spirit-drum-course-i/,True,95,2,0,86,Beginner Level,5.5,2017-05-04T16:44:06Z,Musical Instruments
@@ -59,12 +60,12 @@
 743970,Piano With Willie: Piano Chords Vol. 2,https://www.udemy.com/piano-with-willie-piano-chords-vol-2/,True,40,32,2,11,Intermediate Level,1.5,2016-04-13T06:45:40Z,Musical Instruments
 210020,Drum Lessons For Beginners,https://www.udemy.com/drum-lessons-for-beginners/,True,50,70,2,17,Beginner Level,1.5,2014-05-17T18:24:30Z,Musical Instruments
 263672,Classical Guitar Finger-Picking: Right Hand Arpeggios,https://www.udemy.com/guitar-lessons/,True,195,200,11,19,All Levels,2.0,2014-07-24T19:17:09Z,Musical Instruments
-411986,Rapidly Learn & Master Acoustic Guitar, Classic Fingerstyle,https://www.udemy.com/learn-acoustic-guitar-beginners-course/,True,30,478,3,31,Beginner Level,0.7,2015-02-06T10:46:51Z,Musical Instruments
+411986,"Rapidly Learn & Master Acoustic Guitar, Classic Fingerstyle",https://www.udemy.com/learn-acoustic-guitar-beginners-course/,True,30,478,3,31,Beginner Level,0.7,2015-02-06T10:46:51Z,Musical Instruments
 139778,Play tunes on harmonica and learn how to bend some notes,https://www.udemy.com/benhewlettharmonicatuitionb3/,True,35,73,2,16,Beginner Level,2.0,2014-03-09T22:32:54Z,Musical Instruments
 933816,Instant Harmonica - play Yesterday + Scarborough Fair today!,https://www.udemy.com/instant-harmonica-play-yesterday-scarborough-fair-today/,True,40,33,5,26,All Levels,2.0,2016-08-26T19:51:47Z,Musical Instruments
 676432,Violin lessons for beginners,https://www.udemy.com/violin-lessons-for-beginners/,True,20,59,6,15,Beginner Level,1.0,2015-11-25T21:56:34Z,Musical Instruments
 42255,Old-Time Banjo for the Absolute Beginner,https://www.udemy.com/old-time-banjo-for-the-absolute-beginner/,True,25,192,21,17,Beginner Level,1.5,2014-03-12T15:55:49Z,Musical Instruments
-112602,Learn Guitar The Easy Way, It's Faster,https://www.udemy.com/learn-guitar-the-easy-way-its-faster/,True,25,57,2,16,Beginner Level,4.5,2013-11-14T17:47:35Z,Musical Instruments
+112602,"Learn Guitar The Easy Way, It's Faster",https://www.udemy.com/learn-guitar-the-easy-way-its-faster/,True,25,57,2,16,Beginner Level,4.5,2013-11-14T17:47:35Z,Musical Instruments
 607360,Learn Oud 2,https://www.udemy.com/oud-lessons/,True,20,81,11,27,Intermediate Level,3.0,2015-09-10T19:39:22Z,Musical Instruments
 521440,The Essentials of Acoustic Guitar Strumming Patterns,https://www.udemy.com/strumming-mastery/,False,0,2995,51,19,Beginner Level,1.0,2015-07-01T22:48:40Z,Musical Instruments
 198692,Acoustic Guitar After The Basics,https://www.udemy.com/acoustic-guitar-after-the-basics/,True,45,181,17,25,Intermediate Level,2.5,2014-11-20T09:38:59Z,Musical Instruments
@@ -89,7 +90,7 @@
 211026,Aprende a tocar Jazz y Ritmos Latinos en la guitarra,https://www.udemy.com/aprende-a-tocar-jazz-y-ritmos-latinos-en-la-guitarra/,True,50,6,0,17,All Levels,3.0,2014-05-07T22:15:04Z,Musical Instruments
 847808,こどもギターレッスン　リトルギタリストⅢ（完結編）,https://www.udemy.com/takalittle3/,True,20,3,0,36,Beginner Level,1.0,2016-10-03T16:42:12Z,Musical Instruments
 218856,Aprende a tocar la flauta dulce de forma sencilla y gradual,https://www.udemy.com/aprende-a-tocar-la-flauta-dulce-curso-en-video/,True,50,5,0,23,All Levels,3.0,2014-05-19T16:49:04Z,Musical Instruments
-214218,Aprende a tocar jazz, salsa y blues en el piano,https://www.udemy.com/aprende-a-tocar-jazz-salsa-y-blues-en-el-piano/,True,20,5,0,23,All Levels,3.0,2014-05-19T15:55:12Z,Musical Instruments
+214218,"Aprende a tocar jazz, salsa y blues en el piano",https://www.udemy.com/aprende-a-tocar-jazz-salsa-y-blues-en-el-piano/,True,20,5,0,23,All Levels,3.0,2014-05-19T15:55:12Z,Musical Instruments
 28295,Learn Web Designing & HTML5/CSS3 Essentials in 4-Hours,https://www.udemy.com/build-beautiful-html5-website/,True,75,43285,525,24,All Levels,4.0,2013-01-03T00:55:31Z,Web Development
 19603,Learning Dynamic Website Design - PHP MySQL and JavaScript,https://www.udemy.com/learning-dynamic-website-design/,True,50,47886,285,125,All Levels,12.5,2012-06-18T16:52:34Z,Web Development
 889438,ChatBots: Messenger ChatBot with API.AI and Node.JS,https://www.udemy.com/chatbots/,True,50,2577,529,64,All Levels,4.5,2016-06-30T16:57:08Z,Web Development
@@ -117,7 +118,7 @@
 1009452,Build Enterprise Applications with Angular 2 (and Angular 4),https://www.udemy.com/angular2-advanced/,True,190,6082,848,135,Intermediate Level,9.5,2016-11-22T14:55:35Z,Web Development
 1247828,Angular 4 (2+) Crash Course for Beginners,https://www.udemy.com/angular-crash-course-for-beginners/,True,120,12366,506,120,Beginner Level,9.0,2017-06-23T00:35:49Z,Web Development
 886300,Accelerated JavaScript Training,https://www.udemy.com/javascript-bootcamp-2016/,True,110,4720,1017,126,All Levels,7.5,2016-07-12T18:23:35Z,Web Development
-1009254,Beginner API development in Node, Express, ES6, & MongoDB,https://www.udemy.com/api-development/,True,165,7057,655,65,Beginner Level,18.5,2016-11-12T18:53:51Z,Web Development
+1009254,"Beginner API development in Node, Express, ES6, & MongoDB",https://www.udemy.com/api-development/,True,165,7057,655,65,Beginner Level,18.5,2016-11-12T18:53:51Z,Web Development
 1078522,React JS and Redux - Mastering Web Apps,https://www.udemy.com/react-js-and-redux-mastering-web-apps/,True,60,16829,820,77,All Levels,5.0,2017-01-19T04:58:10Z,Web Development
 1002030,Web Development w/ Google’s Go (golang) Programming Language,https://www.udemy.com/go-programming-language/,True,65,4872,662,171,Intermediate Level,19.0,2017-01-17T22:30:33Z,Web Development
 818990,Git a Web Developer Job: Mastering the Modern Workflow,https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/,True,200,5809,1445,61,Beginner Level,15.0,2016-08-28T17:54:07Z,Web Development
@@ -142,14 +143,14 @@
 771198,Reactive JS:  Are you ready for the next big paradigm shift?,https://www.udemy.com/reactive-js-getting-ready-for-the-next-big-paradigm-shift/,True,60,2097,401,28,Intermediate Level,5.5,2016-02-23T16:50:16Z,Web Development
 391546,Learn Python and Django: Payment Processing,https://www.udemy.com/learn-django-code-accept-payments-with-stripe/,True,70,17714,198,23,All Levels,3.5,2015-02-09T15:37:56Z,Web Development
 629088,Code your first Website using HTML & CSS: Project Learning,https://www.udemy.com/code-your-first-website-using-html-css-project-learning/,True,20,9554,368,16,Beginner Level,1.5,2015-10-28T18:16:52Z,Web Development
-1006894,React.js: Building Production Ready Apps, Start to Finish,https://www.udemy.com/reactjs-building-production-ready-apps-start-to-finish/,True,50,1129,137,77,All Levels,17.5,2016-11-10T23:48:22Z,Web Development
+1006894,"React.js: Building Production Ready Apps, Start to Finish",https://www.udemy.com/reactjs-building-production-ready-apps-start-to-finish/,True,50,1129,137,77,All Levels,17.5,2016-11-10T23:48:22Z,Web Development
 579338,Learn Object Oriented Programming PHP fundamentals bootcamp,https://www.udemy.com/learn-object-oriented-programming-php-fundamentals-bootcamp/,True,100,22213,142,16,All Levels,1.0,2015-08-11T18:52:58Z,Web Development
 945320,Javascript Intermediate level 2 - Mastering Functions,https://www.udemy.com/javascript-intermediate-mastering-functions/,True,100,2412,116,28,All Levels,2.5,2016-08-30T18:20:56Z,Web Development
 64605,1 Hour CSS,https://www.udemy.com/1-hour-css/,True,100,18324,333,16,Beginner Level,1.0,2013-07-09T20:27:14Z,Web Development
-897146,Become a Full Stack Developer with Spring, AWS and Stripe,https://www.udemy.com/become-a-full-stack-developer-with-spring-aws-and-stripe/,True,75,1696,193,60,Intermediate Level,10.0,2016-07-08T15:47:58Z,Web Development
+897146,"Become a Full Stack Developer with Spring, AWS and Stripe",https://www.udemy.com/become-a-full-stack-developer-with-spring-aws-and-stripe/,True,75,1696,193,60,Intermediate Level,10.0,2016-07-08T15:47:58Z,Web Development
 989452,Complete JQuery And JQuery UI Course For Beginner,https://www.udemy.com/complete-jquery-and-jquery-ui-course-for-beginner/,True,80,7169,277,20,Intermediate Level,1.0,2016-10-27T21:56:49Z,Web Development
 917724,Learn JavaScript for Web Development,https://www.udemy.com/javascript-learn-javascript-essentials-and-build-project/,True,75,12893,220,95,Intermediate Level,8.5,2016-10-12T16:41:11Z,Web Development
-970874,Complete AJAX Using Bootstrap, PHP From Basic To Advanced.,https://www.udemy.com/complete-ajax-using-bootstrap-php-from-basic-to-advanced/,True,195,4708,111,18,All Levels,2.5,2016-10-06T04:49:57Z,Web Development
+970874,"Complete AJAX Using Bootstrap, PHP From Basic To Advanced.",https://www.udemy.com/complete-ajax-using-bootstrap-php-from-basic-to-advanced/,True,195,4708,111,18,All Levels,2.5,2016-10-06T04:49:57Z,Web Development
 911474,Complete Wordpress Theme Development Course,https://www.udemy.com/complete-wordpress-theme-development-course/,True,150,1050,223,64,All Levels,6.5,2016-07-23T20:07:17Z,Web Development
 425910,How to Optimise Your WordPress Website's Speed & Security to Improve SEO & User Experience,https://www.udemy.com/how-to-make-your-wordpress-site-blazing-fast/,True,125,7852,46,31,All Levels,3.5,2015-03-02T19:03:21Z,Web Development
 842058,Build A Web App With Spring Framework and Angular 2,https://www.udemy.com/build-a-web-app-with-spring-boot-and-angular-2/,True,145,1683,340,48,All Levels,8.0,2016-05-08T18:47:05Z,Web Development
@@ -158,11 +159,11 @@
 796010,Develop Your First App in an Hour,https://www.udemy.com/develop-your-first-app-in-an-hour/,True,20,3699,201,11,Beginner Level,1.0,2016-05-17T17:22:35Z,Web Development
 752658,PHP: Ultimate guide to PHP for everyone,https://www.udemy.com/basic-php/,True,115,10103,75,20,Beginner Level,1.5,2016-05-29T17:49:28Z,Web Development
 560990,JavaScript DOM Dynamic Web interactive content Boot Camp,https://www.udemy.com/javascript-dom-dynamic-web-interactive-content-boot-camp/,True,75,7380,43,59,All Levels,2.5,2015-07-30T16:52:34Z,Web Development
-1260288,Master JavaScript Programming, 3 Projects Included !!,https://www.udemy.com/master-javascript-programming-extended-course/,True,20,3903,53,107,All Levels,10.5,2017-06-27T23:16:24Z,Web Development
+1260288,"Master JavaScript Programming, 3 Projects Included !!",https://www.udemy.com/master-javascript-programming-extended-course/,True,20,3903,53,107,All Levels,10.5,2017-06-27T23:16:24Z,Web Development
 918870,HTML CSS Learn to create a website from scratch,https://www.udemy.com/html-css-learn-to-create-a-website-from-scratch/,True,50,4892,49,32,Beginner Level,2.0,2016-08-04T21:40:35Z,Web Development
 1027016,Complete Codeigniter: From Beginner to Advanced,https://www.udemy.com/complete-codeigniter-course-from-basic-to-advanced/,True,200,2786,31,20,All Levels,3.0,2017-01-24T22:09:52Z,Web Development
 283014,HTML 5: How I made websites in HTML5,https://www.udemy.com/html5-certification/,True,135,15064,237,15,All Levels,1.5,2014-10-23T19:43:16Z,Web Development
-787236,Build Responsive Website Using HTML5, CSS3, JS And Bootstrap,https://www.udemy.com/build-responsive-website-using-html5-css3-js-and-bootstrap/,True,95,22623,783,73,All Levels,8.0,2016-06-20T18:48:26Z,Web Development
+787236,"Build Responsive Website Using HTML5, CSS3, JS And Bootstrap",https://www.udemy.com/build-responsive-website-using-html5-css3-js-and-bootstrap/,True,95,22623,783,73,All Levels,8.0,2016-06-20T18:48:26Z,Web Development
 1134390,Complete React JS web developer with ES6 - Build 10 projects,https://www.udemy.com/complete-react-js-course/,True,200,952,121,75,Beginner Level,12.0,2017-03-22T20:09:26Z,Web Development
 883000,Complete WordPress Theme Developer Course With Bootstrap,https://www.udemy.com/the-complete-wordpress-theme-developer-course/,True,150,3415,312,160,All Levels,25.0,2016-07-01T20:06:13Z,Web Development
 938560,The Complete Ethical Hacking Course 2.0: Python & Kali Linux,https://www.udemy.com/penetration-testing-ethical-hacking-course-python-kali-linux/,True,195,7827,268,66,All Levels,11.0,2016-09-26T15:08:29Z,Web Development
@@ -170,19 +171,19 @@
 1165096,Vue JS - Mastering Web Apps,https://www.udemy.com/vue-web-apps/,True,80,13457,215,69,All Levels,4.5,2017-04-06T16:57:56Z,Web Development
 1045942,Angular NgRx Store Masterclass - Covers Angular 4,https://www.udemy.com/angular-ngrx-course/,True,150,1399,212,89,Intermediate Level,8.5,2017-01-19T00:35:43Z,Web Development
 860812,JavaScript the Basics - JavaScript for Beginners,https://www.udemy.com/javascript-the-basics-for-beginners/,True,120,4028,674,93,Beginner Level,9.0,2016-06-09T15:13:54Z,Web Development
-1070976,Complete E-Commerce Course - Java,Spring,Hibernate and MySQL,https://www.udemy.com/complete-e-commerce-course-javaspringhibernate-and-mysql/,True,195,1371,165,83,All Levels,20.0,2017-01-16T23:50:02Z,Web Development
-939962,Learn SVG Animation - With HTML, CSS & Javascript,https://www.udemy.com/learn-svg-animation/,True,65,12953,680,22,All Levels,1.5,2016-09-12T18:51:32Z,Web Development
-874960,Build a Responsive Website with HTML5, CSS3 and Bootstrap 4,https://www.udemy.com/build-a-responsive-website-with-html5-css3-and-bootstrap-4/,True,20,5125,395,53,All Levels,7.0,2016-08-09T17:53:33Z,Web Development
+1070976,"Complete E-Commerce Course - Java,Spring,Hibernate and MySQL",https://www.udemy.com/complete-e-commerce-course-javaspringhibernate-and-mysql/,True,195,1371,165,83,All Levels,20.0,2017-01-16T23:50:02Z,Web Development
+939962,"Learn SVG Animation - With HTML, CSS & Javascript",https://www.udemy.com/learn-svg-animation/,True,65,12953,680,22,All Levels,1.5,2016-09-12T18:51:32Z,Web Development
+874960,"Build a Responsive Website with HTML5, CSS3 and Bootstrap 4",https://www.udemy.com/build-a-responsive-website-with-html5-css3-and-bootstrap-4/,True,20,5125,395,53,All Levels,7.0,2016-08-09T17:53:33Z,Web Development
 28295,Learn Web Designing & HTML5/CSS3 Essentials in 4-Hours,https://www.udemy.com/build-beautiful-html5-website/,True,75,43285,525,24,All Levels,4.0,2013-01-03T00:55:31Z,Web Development
 24334,CSS Development (with CSS3!),https://www.udemy.com/css-development-with-css3/,True,20,25864,188,32,All Levels,5.0,2012-10-31T16:39:49Z,Web Development
 997814,Angular 2 & TypeScript Beginner Web Development,https://www.udemy.com/angular2/,True,200,5211,414,133,Beginner Level,19.5,2016-11-14T00:44:48Z,Web Development
 641868,The Docker for DevOps course: From development to production,https://www.udemy.com/the-docker-for-devops-course-from-development-to-production/,True,25,8234,1111,110,All Levels,7.5,2015-11-13T17:30:34Z,Web Development
-1042110,Beginner Full Stack Web Development: HTML, CSS, React & Node,https://www.udemy.com/ultimate-web/,True,200,2687,331,138,Beginner Level,25.5,2017-03-31T05:35:11Z,Web Development
+1042110,"Beginner Full Stack Web Development: HTML, CSS, React & Node",https://www.udemy.com/ultimate-web/,True,200,2687,331,138,Beginner Level,25.5,2017-03-31T05:35:11Z,Web Development
 883002,Learn Angular 2 Development By Building 12 Apps,https://www.udemy.com/learn-angular-2-development-by-building-10-apps/,True,50,5143,941,80,Intermediate Level,12.0,2016-07-01T21:20:38Z,Web Development
-1128050,Server API Development in Swift, Kitura, & Bluemix,https://www.udemy.com/swift-kitura/,True,200,1827,129,66,Beginner Level,20.5,2017-03-08T23:09:32Z,Web Development
+1128050,"Server API Development in Swift, Kitura, & Bluemix",https://www.udemy.com/swift-kitura/,True,200,1827,129,66,Beginner Level,20.5,2017-03-08T23:09:32Z,Web Development
 1218130,React VR - Creating Virtual Reality Apps,https://www.udemy.com/react-vr/,True,80,5026,72,43,All Levels,3.0,2017-05-17T20:36:49Z,Web Development
 1123098,RxJs & Reactive Programming Angular Masterclass - Angular 4,https://www.udemy.com/rxjs-reactive-angular-course/,True,150,1301,179,80,All Levels,7.5,2017-04-11T18:48:57Z,Web Development
-47963,Coding for Entrepreneurs: Learn Python, Django, and More.,https://www.udemy.com/coding-for-entrepreneurs/,True,195,23412,799,251,All Levels,45.0,2013-04-08T00:46:14Z,Web Development
+47963,"Coding for Entrepreneurs: Learn Python, Django, and More.",https://www.udemy.com/coding-for-entrepreneurs/,True,195,23412,799,251,All Levels,45.0,2013-04-08T00:46:14Z,Web Development
 671552,React and Flux Web Development for Beginners,https://www.udemy.com/react-flux/,True,100,8691,836,63,Beginner Level,11.0,2015-12-15T20:30:28Z,Web Development
 1002676,The Full Stack Web Development,https://www.udemy.com/the-full-stack-web-development/,True,60,3119,453,207,Beginner Level,33.0,2016-11-24T00:38:03Z,Web Development
 481002,Learn Nodejs by building 12 projects,https://www.udemy.com/learn-nodejs-by-building-10-projects/,True,50,10150,997,90,All Levels,16.0,2015-04-22T00:22:43Z,Web Development
@@ -202,7 +203,7 @@
 959200,JavaScript For Absolute Beginners - Level One,https://www.udemy.com/javascript-for-absolute-beginners-level-one/,True,65,713,80,8,All Levels,1.5,2016-09-19T21:06:29Z,Web Development
 810550,Effective Personal Website Building and Hosting,https://www.udemy.com/effective-personal-website-building-and-hosting/,True,20,4259,0,11,All Levels,1.0,2016-04-11T22:36:52Z,Web Development
 473160,Web Design for Web Developers: Build Beautiful Websites!,https://www.udemy.com/web-design-secrets/,False,0,98867,6512,20,All Levels,3.0,2015-04-13T18:29:47Z,Web Development
-904076,Learn Rails: Quickly Code, Style and Launch 4 Web Apps,https://www.udemy.com/learn-rails/,True,200,1849,21,83,All Levels,3.0,2016-08-23T20:46:39Z,Web Development
+904076,"Learn Rails: Quickly Code, Style and Launch 4 Web Apps",https://www.udemy.com/learn-rails/,True,200,1849,21,83,All Levels,3.0,2016-08-23T20:46:39Z,Web Development
 842728,Getting Started with NodeJS for Beginners,https://www.udemy.com/getting-started-with-nodejs-for-beginners/,True,195,1645,75,12,All Levels,1.0,2016-05-23T21:14:50Z,Web Development
 314462,Quickstart AngularJS,https://www.udemy.com/quickstart-angularjs/,False,0,64128,4047,17,Beginner Level,1.5,2014-11-22T12:42:22Z,Web Development
 783748,Byte-Sized-Chunks: Cascading Style Sheets (CSS) with HTML,https://www.udemy.com/css-with-html/,True,20,2160,16,28,All Levels,4.0,2016-03-10T17:20:41Z,Web Development
@@ -234,7 +235,7 @@
 94430,Learn Javascript & JQuery From Scratch,https://www.udemy.com/learn-javascript-jquery-from-scratch/,True,30,84897,2685,10,All Levels,2.0,2013-10-10T15:19:29Z,Web Development
 788514,Learn to use JSON,https://www.udemy.com/learn-to-use-json/,True,150,12838,96,22,Beginner Level,1.5,2016-03-11T18:30:18Z,Web Development
 629142,The Ultimate Web Developer How To Guide,https://www.udemy.com/learn-web-development-complete-step-by-step-guide-to-success/,True,200,24861,423,281,All Levels,22.5,2015-11-26T04:31:11Z,Web Development
-992114,Build A Complete CRUD Application With PHP, MYSQL & JQUERY,https://www.udemy.com/build-a-complete-crud-application-with-php-mysql-jquery/,True,20,9762,94,112,All Levels,13.5,2016-11-01T15:30:36Z,Web Development
+992114,"Build A Complete CRUD Application With PHP, MYSQL & JQUERY",https://www.udemy.com/build-a-complete-crud-application-with-php-mysql-jquery/,True,20,9762,94,112,All Levels,13.5,2016-11-01T15:30:36Z,Web Development
 379722,jQuery Crash Course: Learn the Essentials of jQuery Fast,https://www.udemy.com/learn-jquery-crash-course/,True,50,11262,142,18,All Levels,2.0,2015-01-07T03:12:34Z,Web Development
 1189288,Drupal Tutorial : Drupal 8 Beginner to Expert in 8 PROJECTS,https://www.udemy.com/drupal-tutorial/,True,200,1270,16,73,Beginner Level,7.0,2017-05-01T23:07:05Z,Web Development
 652438,The Complete PHP CodeIgniter Course: Beginner To Advanced,https://www.udemy.com/codeignitercourse/,True,195,17895,212,30,All Levels,4.0,2015-12-29T20:19:39Z,Web Development
@@ -251,21 +252,21 @@
 473548,PHP OOP: Object Oriented Programming for beginners + Project,https://www.udemy.com/oop-php-object-oriented-programing-with-project-1-course/,True,200,6497,901,221,All Levels,18.0,2015-06-03T22:40:09Z,Web Development
 920544,React Redux React-Router: From Beginner to Paid Professional,https://www.udemy.com/react-redux-react-router/,True,20,11536,876,60,All Levels,6.5,2016-08-25T22:22:25Z,Web Development
 993754,Django Core | A Reference Guide to Core Django Concepts,https://www.udemy.com/django-core/,True,195,16282,303,159,Intermediate Level,18.5,2016-10-29T19:28:45Z,Web Development
-1155262,Angular 2 Complete E-Commerce App Course - Java,Spring,MySQL,https://www.udemy.com/build-angular-2-complete-e-comerce-app-java-spring-mysql/,True,195,949,129,89,All Levels,20.5,2017-03-27T16:46:54Z,Web Development
-997964,Build An Online Bank With Java, Angular 2, Spring and More,https://www.udemy.com/build-an-online-bank-with-java-angular-2-spring-and-more/,True,195,1995,286,45,Beginner Level,6.5,2016-11-01T15:42:30Z,Web Development
+1155262,"Angular 2 Complete E-Commerce App Course - Java,Spring,MySQL",https://www.udemy.com/build-angular-2-complete-e-comerce-app-java-spring-mysql/,True,195,949,129,89,All Levels,20.5,2017-03-27T16:46:54Z,Web Development
+997964,"Build An Online Bank With Java, Angular 2, Spring and More",https://www.udemy.com/build-an-online-bank-with-java-angular-2-spring-and-more/,True,195,1995,286,45,Beginner Level,6.5,2016-11-01T15:42:30Z,Web Development
 812588,The Complete jQuery Course: From Beginner To Advanced!,https://www.udemy.com/jquery-tutorial/,True,195,6636,302,50,All Levels,6.0,2016-05-26T19:10:29Z,Web Development
 531954,Projects in AngularJS - Learn by building 10 Projects,https://www.udemy.com/learn-angularjs-development/,True,40,7146,629,77,All Levels,14.5,2015-06-25T19:00:56Z,Web Development
 1022582,The Ultimate Vue JS 2 Developers Course,https://www.udemy.com/vuejs-2-essentials/,True,195,1703,292,178,All Levels,13.0,2016-12-16T14:59:21Z,Web Development
 1049092,React JS - Build real world JS apps & deploy on cloud,https://www.udemy.com/reactjs-for-beginners-build-real-world-react-apps-deploy-on-cloud/,True,175,12815,262,53,All Levels,8.5,2017-02-12T15:17:31Z,Web Development
 1277924,Angular 4 Front To Back,https://www.udemy.com/angular-4-front-to-back/,True,40,44,0,68,All Levels,8.5,2017-07-06T15:04:55Z,Web Development
-964732,Modern Web Development with SASS, Gulp, NPM & Web Workflows,https://www.udemy.com/modern-web-development-with-sass-gulp-npm-web-workflows/,True,95,502,62,59,Beginner Level,5.0,2016-12-31T03:11:31Z,Web Development
-947120,HTML5, CSS3 And JavaScript Fundamentals 2016,https://www.udemy.com/html5-css3-and-javascript-fundamentals-2016/,True,115,627,125,7,All Levels,1.0,2016-09-01T16:48:58Z,Web Development
-712960,Angular 4 - Concepts, Code and Collective Wisdom,https://www.udemy.com/angular-2-concepts-code-and-collective-wisdom/,True,50,851,164,75,Intermediate Level,4.5,2016-04-20T16:29:03Z,Web Development
+964732,"Modern Web Development with SASS, Gulp, NPM & Web Workflows",https://www.udemy.com/modern-web-development-with-sass-gulp-npm-web-workflows/,True,95,502,62,59,Beginner Level,5.0,2016-12-31T03:11:31Z,Web Development
+947120,"HTML5, CSS3 And JavaScript Fundamentals 2016",https://www.udemy.com/html5-css3-and-javascript-fundamentals-2016/,True,115,627,125,7,All Levels,1.0,2016-09-01T16:48:58Z,Web Development
+712960,"Angular 4 - Concepts, Code and Collective Wisdom",https://www.udemy.com/angular-2-concepts-code-and-collective-wisdom/,True,50,851,164,75,Intermediate Level,4.5,2016-04-20T16:29:03Z,Web Development
 267560,Learn E-Commerce Website in PHP & MySQL From Scratch!,https://www.udemy.com/ecommerce-website-in-php-mysqli/,False,0,29990,1342,87,All Levels,17.5,2014-08-10T10:27:28Z,Web Development
 763774,JavaScript Game Development: Create Your Own Breakout Game,https://www.udemy.com/javascript-game-development-create-your-own-breakout-game/,False,0,10179,314,21,All Levels,1.5,2016-09-26T23:44:51Z,Web Development
 929016,HTML and HTML5 For Beginners 2016,https://www.udemy.com/html-and-html5-for-beginners-2016/,True,200,563,178,32,All Levels,3.0,2016-08-11T22:16:30Z,Web Development
 281690,A Very Complete Introduction To Laravel,https://www.udemy.com/laravel-4-beginners/,True,20,2320,114,43,All Levels,6.0,2014-08-24T16:47:54Z,Web Development
-399228,Learn to code, Become a Web Developer and Master JavaScript!,https://www.udemy.com/master-javascript-today/,True,200,2353,47,91,All Levels,10.0,2015-01-22T14:36:59Z,Web Development
+399228,"Learn to code, Become a Web Developer and Master JavaScript!",https://www.udemy.com/master-javascript-today/,True,200,2353,47,91,All Levels,10.0,2015-01-22T14:36:59Z,Web Development
 1023062,Serverless Architecture on Amazon Web Services,https://www.udemy.com/serverless-architecture-on-aws/,False,0,13210,978,8,Intermediate Level,0.55,2016-11-30T00:11:26Z,Web Development
 933260,jQuery Essentials: Learn the Fundamental of jQuery,https://www.udemy.com/jquery-essentials/,True,20,1004,43,40,All Levels,3.5,2016-08-19T00:45:41Z,Web Development
 494078,Expert Guide : Mastering Functions in JavaScript !,https://www.udemy.com/functions-in-javascript/,True,195,3015,30,19,All Levels,2.5,2015-06-19T22:58:29Z,Web Development
@@ -318,7 +319,7 @@
 1019276,The Ultimate Beginner's Guide to Django,https://www.udemy.com/the-ultimate-beginners-guide-to-django-python-web-dev-website/,True,200,2390,497,82,Beginner Level,9.0,2016-12-11T22:07:39Z,Web Development
 1252630,React JS - Mastering Redux,https://www.udemy.com/react-js-mastering-redux/,True,100,7059,116,58,All Levels,5.0,2017-06-19T21:39:14Z,Web Development
 1000010,Professional Ruby on Rails Developer with Rails 5,https://www.udemy.com/pro-ruby-on-rails-rails5/,True,200,3179,214,174,All Levels,20.5,2017-02-19T22:03:15Z,Web Development
-937586,Ruby on Rails 5 - BDD, RSpec and Capybara,https://www.udemy.com/ruby-rails-5-bdd-rspec-capybara/,True,200,1870,193,145,All Levels,14.5,2016-10-28T00:17:36Z,Web Development
+937586,"Ruby on Rails 5 - BDD, RSpec and Capybara",https://www.udemy.com/ruby-rails-5-bdd-rspec-capybara/,True,200,1870,193,145,All Levels,14.5,2016-10-28T00:17:36Z,Web Development
 79154,Back to School Web Development and Programming Bundle,https://www.udemy.com/back-to-school-web-development-and-programming-bundle/,True,200,18170,117,779,Beginner Level,44.5,2013-08-19T14:53:00Z,Web Development
 328476,Complete ASP NET MVC Web Development - Newbie to Ninja!,https://www.udemy.com/better-web-development-pro-techniques-for-success/,True,195,6073,627,66,All Levels,9.0,2014-11-24T21:10:49Z,Web Development
 921474,The Complete DevOps Engineer Course 2.0 - Java & Kubernetes,https://www.udemy.com/the-complete-devops-engineer-course-20-java-kubernetes/,True,195,5335,105,117,All Levels,14.0,2016-08-06T20:53:04Z,Web Development
@@ -355,12 +356,12 @@
 906700,Sass: From Beginner to Advanced,https://www.udemy.com/sass-from-beginner-to-advanced/,True,40,8059,231,39,All Levels,2.0,2016-07-21T15:43:34Z,Web Development
 113706,Build Flat Responsive Website from Scratch - Complete Course,https://www.udemy.com/build-flat-responsive-website-from-scratch-complete-course/,True,35,12105,144,54,All Levels,7.5,2013-12-04T13:33:41Z,Web Development
 604044,Wordpress for Beginners - Build a Live Website from Scratch,https://www.udemy.com/wordpress_for_beginners/,True,20,3877,92,15,Beginner Level,1.5,2015-09-09T17:53:26Z,Web Development
-531290,Essential JavaScript, jQuery and AngularJS Training,https://www.udemy.com/essential-javascript-jquery-angularjs-training/,True,30,2919,136,70,Intermediate Level,7.0,2015-07-09T22:41:32Z,Web Development
+531290,"Essential JavaScript, jQuery and AngularJS Training",https://www.udemy.com/essential-javascript-jquery-angularjs-training/,True,30,2919,136,70,Intermediate Level,7.0,2015-07-09T22:41:32Z,Web Development
 436210,The Pro Ruby on Rails Starter,https://www.udemy.com/pro-rubyonrails-starter/,True,45,2409,90,19,Beginner Level,2.5,2015-03-04T18:37:14Z,Web Development
 617158,Unit Testing AngularJS: Build Bugfree Apps That Always Work!,https://www.udemy.com/unit-testing-angularjs/,True,25,2083,213,23,All Levels,2.5,2016-01-24T21:47:20Z,Web Development
 1121580,WordPress Blog : Create a WordPress Website for Beginners,https://www.udemy.com/wordpress-website-for-beginners/,True,20,2076,8,20,Beginner Level,2.0,2017-02-26T18:29:53Z,Web Development
 782192,Introduction to HTML5 Canvas basics of drawing,https://www.udemy.com/introduction-to-html5-canvas-basics-of-drawing/,True,200,2918,16,17,Beginner Level,1.0,2016-03-14T18:51:45Z,Web Development
-978728,Thoughtful Web Development Course: HTML, Vue.js, PHP, MySQL,https://www.udemy.com/web-development-html5-css3-php-oop-and-mysql-database/,True,200,842,144,536,All Levels,25.0,2016-10-11T14:18:27Z,Web Development
+978728,"Thoughtful Web Development Course: HTML, Vue.js, PHP, MySQL",https://www.udemy.com/web-development-html5-css3-php-oop-and-mysql-database/,True,200,842,144,536,All Levels,25.0,2016-10-11T14:18:27Z,Web Development
 65493,Kids Coding - Beginners CSS,https://www.udemy.com/kids-coding-beginners-css/,True,100,7130,30,17,All Levels,1.0,2013-07-25T19:55:43Z,Web Development
 32649,PHP & MySQL - Learn The Easy Way. Master PHP & MySQL Quickly,https://www.udemy.com/learning-php-and-mysql-development-the-easy-way/,True,50,5549,92,143,All Levels,15.5,2012-12-15T15:22:52Z,Web Development
 1225030,Learning Path: Magento: Master and Test Magento 2 with Ease,https://www.udemy.com/learning-path-magento-master-and-test-magento-2-with-ease/,True,200,155,9,37,Expert Level,6.0,2017-05-26T17:51:05Z,Web Development
@@ -396,7 +397,7 @@
 955818,Jquery :basics for beginners,https://www.udemy.com/jquery-basics-for-beginners/,True,50,1274,34,15,All Levels,0.6666666666666666,2016-09-12T19:01:34Z,Web Development
 65330,Web Development By Doing: HTML / CSS From Scratch,https://www.udemy.com/web-development-learn-by-doing-html5-css3-from-scratch-introductory/,False,0,72932,2575,21,Beginner Level,1.0,2013-09-25T00:42:09Z,Web Development
 173548,Build Your First Website in 1 Week with HTML5 and CSS3,https://www.udemy.com/build-your-first-website-in-1-week/,False,0,120291,5924,30,Beginner Level,3.0,2014-04-08T16:21:30Z,Web Development
-1183094,ASP.NET Core MVC, Quick and Practical,https://www.udemy.com/aspnet-core-mvc-quick-and-practical/,True,20,387,5,30,Intermediate Level,2.5,2017-04-25T00:55:41Z,Web Development
+1183094,"ASP.NET Core MVC, Quick and Practical",https://www.udemy.com/aspnet-core-mvc-quick-and-practical/,True,20,387,5,30,Intermediate Level,2.5,2017-04-25T00:55:41Z,Web Development
 738360,Better way towards CSS using Less and Sass,https://www.udemy.com/better-way-towards-css-using-less-and-sass/,True,20,2227,44,26,All Levels,1.5,2016-02-16T08:11:49Z,Web Development
 650328,JavaScript Complete for beginners with real world Apps,https://www.udemy.com/javascript-complete-and-comprehensive/,True,120,2652,33,40,All Levels,3.5,2016-02-02T21:35:54Z,Web Development
 69414,Creating a Responsive HTML Email,https://www.udemy.com/creating-responsive-html-email/,True,20,2520,183,34,All Levels,1.5,2013-08-12T13:09:39Z,Web Development
@@ -411,21 +412,21 @@
 1062686,Complete RESPONSIVE Website Design with HTML5 & CSS3,https://www.udemy.com/website_design/,True,20,2204,6,97,Beginner Level,9.0,2017-02-03T04:19:46Z,Web Development
 1082996,Pimcore Developer: Implement a Blog from a Bootstrap Theme,https://www.udemy.com/enterprise-cms-applied-implement-a-website-with-pimcore/,True,95,1212,15,39,All Levels,4.5,2017-01-24T00:17:39Z,Web Development
 629044,Inspirational Web Development - A Beginner Approach -,https://www.udemy.com/inspirational-web-development-level-0/,True,20,5328,47,28,Beginner Level,3.5,2016-01-24T22:03:49Z,Web Development
-476408,Learn HTML, A practical guide from scratch to HTML 5,https://www.udemy.com/learn-html-a-practical-guide-from-scratch-to-html-5/,True,100,5715,52,31,All Levels,3.0,2015-04-26T12:35:16Z,Web Development
+476408,"Learn HTML, A practical guide from scratch to HTML 5",https://www.udemy.com/learn-html-a-practical-guide-from-scratch-to-html-5/,True,100,5715,52,31,All Levels,3.0,2015-04-26T12:35:16Z,Web Development
 1124244,JavaScript Tutorial: Learn JavaScript Code for Beginners,https://www.udemy.com/javascript-tutorial-for-beginners/,True,20,2074,14,22,Beginner Level,1.5,2017-03-08T00:24:44Z,Web Development
 217010,Website Secrets: Get a Gorgeous Website on the Cheap,https://www.udemy.com/how-to-get-an-excellent-website-at-a-lower-cost/,True,50,12328,15,32,All Levels,2.0,2014-07-04T08:17:41Z,Web Development
 576694,Ultimate WordPress Plugin Course,https://www.udemy.com/wordpress-plugin-course/,True,100,4537,415,49,All Levels,9.0,2015-08-20T20:32:31Z,Web Development
 527952,PHP for Beginners: How to Build an E-Commerce Store,https://www.udemy.com/php-for-beginners-how-to-build-an-ecommerce-store/,True,100,5117,463,138,All Levels,14.5,2015-07-17T18:52:45Z,Web Development
-745306,Build Realtime Apps | React Js, Golang & RethinkDB,https://www.udemy.com/realtime-apps-with-reactjs-golang-rethinkdb/,True,60,3854,482,48,All Levels,3.0,2016-01-29T20:30:27Z,Web Development
-941998,Master Electron: Desktop Apps using HTML, JavaScript & CSS,https://www.udemy.com/master-electron/,True,165,1902,224,47,Intermediate Level,5.5,2017-03-21T23:58:01Z,Web Development
+745306,"Build Realtime Apps | React Js, Golang & RethinkDB",https://www.udemy.com/realtime-apps-with-reactjs-golang-rethinkdb/,True,60,3854,482,48,All Levels,3.0,2016-01-29T20:30:27Z,Web Development
+941998,"Master Electron: Desktop Apps using HTML, JavaScript & CSS",https://www.udemy.com/master-electron/,True,165,1902,224,47,Intermediate Level,5.5,2017-03-21T23:58:01Z,Web Development
 674608,The Complete Web Developer Masterclass: Beginner To Advanced,https://www.udemy.com/webdevelopercourse/,True,195,37141,1813,316,All Levels,51.0,2016-05-18T00:16:26Z,Web Development
 1204208,Mastering Micro Services Using Java Spring Boot,https://www.udemy.com/mastering-micro-services-using-java-sprint-boot/,True,195,1649,34,25,All Levels,2.0,2017-05-17T17:43:14Z,Web Development
 957422,How to Create A Website: An HTML Tutorial and CSS Tutorial,https://www.udemy.com/html-tutorial/,True,65,3012,260,330,All Levels,32.5,2016-09-25T20:55:57Z,Web Development
 511838,The Advanced Web Developer Course,https://www.udemy.com/the-advanced-web-developer-course/,True,100,6890,99,90,Intermediate Level,10.5,2015-06-03T18:21:21Z,Web Development
 621022,Projects in MongoDB - Learn MongoDB Building Projects,https://www.udemy.com/projects-in-mongodb/,True,50,4628,247,93,All Levels,12.0,2015-09-28T20:22:39Z,Web Development
 30318,Learning JavaScript Programming Tutorial. A Definitive Guide,https://www.udemy.com/programming-javascript/,True,50,17113,380,93,All Levels,9.5,2012-11-26T13:51:56Z,Web Development
-1270392,The Complete JavaScript, HTML and CSS Tutorial For Beginners,https://www.udemy.com/the-complete-javascript-html-and-css-tutorial-for-beginners/,True,35,244,44,21,Beginner Level,3.0,2017-06-29T16:13:18Z,Web Development
-991094,Build Modern Responsive Website With HTML5, CSS3 & Bootstrap,https://www.udemy.com/build-modern-responsive-website-with-html5-css3-bootstrap/,True,195,1472,210,110,All Levels,13.0,2017-02-08T05:44:46Z,Web Development
+1270392,"The Complete JavaScript, HTML and CSS Tutorial For Beginners",https://www.udemy.com/the-complete-javascript-html-and-css-tutorial-for-beginners/,True,35,244,44,21,Beginner Level,3.0,2017-06-29T16:13:18Z,Web Development
+991094,"Build Modern Responsive Website With HTML5, CSS3 & Bootstrap",https://www.udemy.com/build-modern-responsive-website-with-html5-css3-bootstrap/,True,195,1472,210,110,All Levels,13.0,2017-02-08T05:44:46Z,Web Development
 695656,The Complete JavaScript Course For Web Development Beginners,https://www.udemy.com/javascriptcourse/,True,195,31499,450,46,All Levels,4.0,2015-12-29T17:20:32Z,Web Development
 1174446,Email Marketing: Send Unlimited Emails via Own Mail Server,https://www.udemy.com/email-marketing-send-unlimited-emails-via-own-mail-server/,True,35,3539,43,20,Beginner Level,1.0,2017-04-19T00:28:15Z,Web Development
 1267892,Getting started with JavaScript,https://www.udemy.com/javascript-code/,True,200,1415,17,23,Beginner Level,1.5,2017-06-27T00:56:40Z,Web Development
@@ -444,7 +445,7 @@
 911318,Master ECMAScript 2015 (ES6),https://www.udemy.com/ecmascript2015/,False,0,7438,441,37,All Levels,2.5,2016-11-28T22:10:27Z,Web Development
 197828,Learn to Setup Websites from Scratch,https://www.udemy.com/learn-to-setup-websites-from-scratch/,False,0,21087,154,24,Beginner Level,3.5,2014-04-14T11:59:11Z,Web Development
 576646,Create Fast RESTful APIs with Lumen and Homestead by Laravel,https://www.udemy.com/lumen-restful-api-and-homestead-for-lumen-by-laravel-and-php/,True,60,1157,105,31,All Levels,3.0,2015-10-25T20:37:23Z,Web Development
-984072,Build Modern Websites Quick With HTML,CSS and Bootstrap,https://www.udemy.com/build-modern-websites-quick-with-htmlcss-and-bootstrap/,True,20,912,17,48,Beginner Level,4.5,2016-10-18T15:48:43Z,Web Development
+984072,"Build Modern Websites Quick With HTML,CSS and Bootstrap",https://www.udemy.com/build-modern-websites-quick-with-htmlcss-and-bootstrap/,True,20,912,17,48,Beginner Level,4.5,2016-10-18T15:48:43Z,Web Development
 709180,Twitter Integration customize Tweets with developer API,https://www.udemy.com/twitter-integration-customize-tweets-with-developer-api/,True,115,2039,7,19,All Levels,1.0,2015-12-29T18:12:34Z,Web Development
 188692,Build a Responsive Website with a Modern Flat Design,https://www.udemy.com/build-responsive-website-designs-with-html5-and-css/,False,0,16527,354,17,All Levels,2.0,2014-03-26T14:23:06Z,Web Development
 683606,The Ultimate WordPress Boot Camp: Build 7 Websites,https://www.udemy.com/the-ultimate-wordpress-boot-camp-build-multiple-websites/,True,125,1000,74,140,Intermediate Level,11.0,2016-02-26T21:21:01Z,Web Development
@@ -492,7 +493,7 @@
 1112844,The Complete Web Developer Masterclass: Beginner To Advanced,https://www.udemy.com/web-development-course-learn-in-just-1-day-by-pooja-thakar/,True,20,1030,11,30,All Levels,2.5,2017-05-12T14:45:01Z,Web Development
 1026206,Website Builder Software Previews,https://www.udemy.com/website-builder-software-reviews-weebly-vs-squarespace-vs-wix/,True,25,1406,12,20,Beginner Level,1.0,2016-12-15T04:55:26Z,Web Development
 484872,Learn How to Create Your Own Social Network,https://www.udemy.com/create-your-own-social-network/,True,50,4732,5,14,All Levels,2.0,2015-04-24T23:54:06Z,Web Development
-773824,Learn By Example: The Foundations of HTML, CSS & Javascript,https://www.udemy.com/learn-by-example-html-css-javascript/,True,50,1724,72,94,All Levels,13.0,2016-02-29T23:04:14Z,Web Development
+773824,"Learn By Example: The Foundations of HTML, CSS & Javascript",https://www.udemy.com/learn-by-example-html-css-javascript/,True,50,1724,72,94,All Levels,13.0,2016-02-29T23:04:14Z,Web Development
 846578,JavaScript manipulation of the DOM Document Object Model,https://www.udemy.com/javascript-manipulation-of-the-dom-document-object-model/,True,20,1618,46,20,Beginner Level,1.5,2016-05-13T05:09:09Z,Web Development
 358508,Create Jekyll blog and host it on Github like a Ninja,https://www.udemy.com/create-free-jekyll-blog-on-github-pages-like-a-ninja/,True,20,5056,74,11,Beginner Level,2.0,2014-12-13T04:48:15Z,Web Development
 975060,Learn React JS from scratch,https://www.udemy.com/learn-react-js-from-scratch/,True,115,1562,42,34,Beginner Level,4.0,2016-10-10T16:01:44Z,Web Development
@@ -508,10 +509,10 @@
 462668,How To Build A Website From Scratch + Blogging Blueprint,https://www.udemy.com/how-to-build-a-website-from-scratch-blogging-blueprint/,True,20,7017,37,28,All Levels,3.5,2015-04-08T17:39:03Z,Web Development
 565282,Learn To Create Different Website Layouts & Media Queries ,https://www.udemy.com/websitelayouts/,True,195,6510,45,22,All Levels,2.0,2015-08-11T22:26:38Z,Web Development
 1011550,Build Sign Up and Login Forms With Bootstrap Modal,https://www.udemy.com/build-sign-up-and-login-forms-with-bootstrap-modal/,True,20,1898,19,31,All Levels,4.0,2016-11-17T18:55:02Z,Web Development
-409618,Build a Real Time web app in node.js , Angular.js, mongoDB,https://www.udemy.com/realtime-meanstack/,True,20,3299,166,34,All Levels,4.0,2015-03-04T00:11:45Z,Web Development
+409618,"Build a Real Time web app in node.js , Angular.js, mongoDB",https://www.udemy.com/realtime-meanstack/,True,20,3299,166,34,All Levels,4.0,2015-03-04T00:11:45Z,Web Development
 1226008,Superb jQuery Course - Become Certified jQuery Developer,https://www.udemy.com/superb-jquery-course/,True,95,817,6,32,All Levels,1.5,2017-05-28T23:56:09Z,Web Development
 1211960,How To Build A Facebook Messenger Chat Bot From Scratch,https://www.udemy.com/how-to-build-a-facebook-messenger-chat-bot-from-scratch/,True,120,1798,20,24,Beginner Level,1.5,2017-05-11T16:53:50Z,Web Development
-1169848,Build Your Own Calculator App with Javascript, HTML5 & CSS,https://www.udemy.com/create-a-calculator-web-app-with-javascript-html-css/,True,50,3688,49,11,All Levels,1.0,2017-04-13T17:36:32Z,Web Development
+1169848,"Build Your Own Calculator App with Javascript, HTML5 & CSS",https://www.udemy.com/create-a-calculator-web-app-with-javascript-html-css/,True,50,3688,49,11,All Levels,1.0,2017-04-13T17:36:32Z,Web Development
 896858,The Complete WordPress Development & Customization Course,https://www.udemy.com/the-complete-wordpress-development-customization-course/,True,100,1611,165,157,Expert Level,12.5,2016-11-07T17:17:16Z,Web Development
 696016,HTML CSS Easy steps to create a web template from scratch,https://www.udemy.com/html-css-easy-steps-to-create-a-web-template-from-scratch/,True,200,11574,78,15,Beginner Level,1.0,2015-12-14T19:48:12Z,Web Development
 993148,Learn jQuery AJAX in 1 hour,https://www.udemy.com/jquery-ajax-course/,True,195,2547,62,18,Intermediate Level,1.0,2016-10-27T18:01:40Z,Web Development
@@ -535,7 +536,7 @@
 611308,Complete PHP and MySql Course: From Beginner to Professional,https://www.udemy.com/complete-php-mysql-course-for-beginners-start-to-finish/,True,200,6508,137,90,All Levels,6.5,2015-10-05T21:01:37Z,Web Development
 959604,Angular JS Essentials,https://www.udemy.com/angular-js-crash-course/,True,195,4687,99,24,Beginner Level,4.0,2017-01-03T15:31:13Z,Web Development
 540724,How To Setup Web Hosting,https://www.udemy.com/how-to-setup-web-hosting/,False,0,11758,242,8,Beginner Level,1.0,2015-07-15T23:49:27Z,Web Development
-1089652,Web Application Development using Redis, Express, and Socket,https://www.udemy.com/web-application-development-using-redis-express-and-socket/,True,200,300,16,66,Beginner Level,6.0,2017-02-09T17:10:16Z,Web Development
+1089652,"Web Application Development using Redis, Express, and Socket",https://www.udemy.com/web-application-development-using-redis-express-and-socket/,True,200,300,16,66,Beginner Level,6.0,2017-02-09T17:10:16Z,Web Development
 1049344,How to Start a WordPress Blog - Complete Beginners Guide!,https://www.udemy.com/how-to-start-a-blog-complete-beginners-guide/,False,0,3784,85,32,Beginner Level,2.0,2017-01-02T23:07:34Z,Web Development
 786494,CSS3 Gradients for Web Designers,https://www.udemy.com/css3-gradients/,True,20,1209,9,21,All Levels,1.5,2016-08-19T19:19:47Z,Web Development
 611518,Learn ASP NET MVC 5 step by step,https://www.udemy.com/maruti-mvc5/,True,20,1428,91,32,Intermediate Level,3.0,2015-10-06T19:00:39Z,Web Development
@@ -554,14 +555,14 @@
 53256,Bootstrap Basics: Program Responsive Websites,https://www.udemy.com/code-responsive-website-twitter-bootstrap/,True,75,4743,393,28,All Levels,3.0,2013-08-09T13:02:39Z,Web Development
 1030440,Projects with JSON and APIs,https://www.udemy.com/projects-with-json-and-apis/,True,20,1520,34,23,All Levels,2.0,2017-02-18T18:11:07Z,Web Development
 947498,Web Design HTML CSS How to Create a Website from Scratch,https://www.udemy.com/html-css-how-to-create-a-website-from-scratch/,True,50,3601,28,22,Beginner Level,2.0,2016-09-03T05:21:37Z,Web Development
-761768,Create Complete Sign up System using PHP, jQuery and Ajax,https://www.udemy.com/create-sign-up-system-using-jquery-ajax-and-php/,True,200,4033,40,25,All Levels,3.0,2016-02-15T00:41:18Z,Web Development
+761768,"Create Complete Sign up System using PHP, jQuery and Ajax",https://www.udemy.com/create-sign-up-system-using-jquery-ajax-and-php/,True,200,4033,40,25,All Levels,3.0,2016-02-15T00:41:18Z,Web Development
 173134,Adobe Flash for Beginners - Build Flash Website From Scratch,https://www.udemy.com/adobe-flash-for-beginners-build-flash-website-from-scratch/,True,200,17071,17,15,All Levels,1.5,2014-03-01T08:48:55Z,Web Development
 881210,Learn Complete WordPress for Building a Professional Sites,https://www.udemy.com/learn-complete-wordpress-for-building-a-professional-sites/,True,80,13708,92,62,All Levels,9.0,2016-06-23T23:38:02Z,Web Development
 1140232,Devtools 2017: Beginner to Expert w/ Chrome Developer Tools,https://www.udemy.com/master-google-chrome-developer-tools/,True,125,430,54,39,All Levels,2.5,2017-04-04T21:05:51Z,Web Development
 767656,Bootstrap Essential Training - Create Your Very Own Website,https://www.udemy.com/ultimate-bootstrap-basics-course-with-2-projects/,True,20,2643,34,83,All Levels,9.0,2016-02-19T18:17:05Z,Web Development
 671960,Angular 2 Jump Start With Typescript,https://www.udemy.com/angular-2-jump-start-with-typescript/,True,20,1731,90,74,All Levels,4.0,2015-12-08T14:37:37Z,Web Development
 686764,Learn Plugin Development in WordPress By Building  Projects,https://www.udemy.com/learn-plugin-development-in-wordpress-by-building-projects/,True,60,1313,121,62,All Levels,11.0,2016-01-11T18:19:15Z,Web Development
-862478,Build Your Startup with No Coding (Design, Develop & Ship),https://www.udemy.com/buildastartup/,True,30,775,245,82,All Levels,8.0,2016-06-03T00:16:34Z,Web Development
+862478,"Build Your Startup with No Coding (Design, Develop & Ship)",https://www.udemy.com/buildastartup/,True,30,775,245,82,All Levels,8.0,2016-06-03T00:16:34Z,Web Development
 834600,The Web Developers Guide: Learn HTML & CSS Fundamentals,https://www.udemy.com/become-a-professional-html-and-css-web-developer/,True,20,2243,27,97,All Levels,7.0,2016-05-01T18:46:29Z,Web Development
 690788,Learn PHP Programming for Absolute Beginners - Lite,https://www.udemy.com/learn-php-programming-for-absolute-beginners-lite/,True,20,2749,62,7,All Levels,0.6833333333333333,2015-12-15T20:46:34Z,Web Development
 854756,Learn Drupal 8 - With a Live Project,https://www.udemy.com/learn-drupal-8-with-a-live-project/,True,55,2012,15,59,All Levels,3.5,2017-03-17T00:11:02Z,Web Development
@@ -573,7 +574,7 @@
 739770,PHP MySQL: Learn PHP MySQL with Project,https://www.udemy.com/php-mysql-project-learning/,True,20,2314,77,25,All Levels,2.0,2016-04-21T02:06:22Z,Web Development
 599532,How to Set Up a Self-Hosted Wordpress Website in 30 Minutes,https://www.udemy.com/how-to-set-up-a-wordpress-website-custom-domain-in-30-mins/,False,0,8770,261,13,Beginner Level,0.5333333333333333,2015-09-20T23:05:59Z,Web Development
 270808,Projects in Django and Python,https://www.udemy.com/projects-in-django-and-python/,True,60,1764,53,28,All Levels,6.5,2014-10-21T07:58:07Z,Web Development
-106156,Create, Update and Manage Your Own Website Using Drupal 7,https://www.udemy.com/getting-to-know-drupal/,True,120,2837,68,49,All Levels,7.0,2013-10-16T21:22:35Z,Web Development
+106156,"Create, Update and Manage Your Own Website Using Drupal 7",https://www.udemy.com/getting-to-know-drupal/,True,120,2837,68,49,All Levels,7.0,2013-10-16T21:22:35Z,Web Development
 589342,Learn HTML - The programming language to build a webpage!,https://www.udemy.com/takethefirststep/,True,25,1655,39,19,Beginner Level,1.0,2016-01-17T18:25:23Z,Web Development
 37684,Learn To Program JavaScript (in ten easy steps),https://www.udemy.com/learn-to-program-javascript-in-ten-easy-steps/,True,75,2721,96,44,Beginner Level,5.5,2013-05-20T09:36:54Z,Web Development
 964118,Bootstrap :basics for beginners,https://www.udemy.com/bootstrap-basics-for-beginners/,True,40,1152,20,14,All Levels,1.0,2016-09-21T14:49:10Z,Web Development
@@ -596,7 +597,7 @@
 954036,JSON :basics for beginners,https://www.udemy.com/learn-json/,True,45,2052,18,8,All Levels,0.55,2016-09-09T16:42:59Z,Web Development
 745120,CSSCasts; CSS libraries Plugins Tips & Tricks for Developers,https://www.udemy.com/csscasts-css-libraries-plugins-tips-tricks-for-developers/,True,200,1874,40,224,All Levels,44.5,2016-03-16T21:09:10Z,Web Development
 797040,Complete Guide to Front-End Web Development and Design,https://www.udemy.com/complete-guide-to-front-end-web-development-and-design/,True,200,1119,111,204,Beginner Level,16.5,2016-05-23T17:32:24Z,Web Development
-795278,Build Ajax Web Apps with Laravel 5.2, Bootstrap and jQuery,https://www.udemy.com/learn-laravel-by-doing/,True,100,1023,131,44,All Levels,5.0,2016-03-22T17:14:41Z,Web Development
+795278,"Build Ajax Web Apps with Laravel 5.2, Bootstrap and jQuery",https://www.udemy.com/learn-laravel-by-doing/,True,100,1023,131,44,All Levels,5.0,2016-03-22T17:14:41Z,Web Development
 8324,Javascript for Beginners,https://www.udemy.com/beginning-javascript/,True,20,3697,195,48,All Levels,3.0,2011-07-09T05:43:31Z,Web Development
 756914,MongooseJS Essentials - Learn MongoDB for Node.js,https://www.udemy.com/mongoosejs-essentials/,False,0,21682,1106,8,Beginner Level,0.7333333333333333,2016-03-12T16:04:28Z,Web Development
 405840,Regular Expressions for Beginners - Universal,https://www.udemy.com/regular-expressions-for-beginners-universal/,True,100,1975,141,36,All Levels,3.0,2017-01-20T00:54:56Z,Web Development
@@ -632,7 +633,7 @@
 424864,Write PHP Like a Pro: Build a PHP MVC Framework From Scratch,https://www.udemy.com/php-mvc-from-scratch/,True,70,1703,435,65,All Levels,3.0,2016-02-04T22:36:17Z,Web Development
 516062,JavaScript Intro to learning JavaScript web programming,https://www.udemy.com/javascript-intro-to-learning-javascript/,True,20,17554,94,16,Beginner Level,1.5,2015-06-01T20:44:42Z,Web Development
 92760,Crash Course: Fundamentals Of HTML & CSS From Scratch.,https://www.udemy.com/beginner-crash-course-fundamentals-of-html-css-in-60-mins/,True,20,7368,216,52,Beginner Level,2.0,2013-09-20T19:48:56Z,Web Development
-1064104,Laravel, the complete guide with real world projects,https://www.udemy.com/best-laravel/,True,200,676,119,125,All Levels,14.0,2017-02-03T16:28:48Z,Web Development
+1064104,"Laravel, the complete guide with real world projects",https://www.udemy.com/best-laravel/,True,200,676,119,125,All Levels,14.0,2017-02-03T16:28:48Z,Web Development
 900434,VueJS V1 Introduction to VueJS JavaScript Framework,https://www.udemy.com/vuejs-introduction-to-vuejs-javascript-framework/,True,200,3632,28,31,Beginner Level,2.0,2016-07-26T16:53:56Z,Web Development
 609992,HTML CSS: Essential steps to learn HTML CSS,https://www.udemy.com/html-and-css-basics/,True,145,10576,154,23,Beginner Level,2.5,2015-11-11T22:43:15Z,Web Development
 77642,Learn HTML 5 in 1 hour,https://www.udemy.com/learn-html-5-in-1-hour/,True,100,11643,169,21,Beginner Level,1.0,2013-08-12T23:26:32Z,Web Development
@@ -714,7 +715,7 @@
 900794,JavaScript Basics For Web Developers,https://www.udemy.com/javascript-basics-for-web-developers/,True,20,958,14,17,Beginner Level,1.0,2016-07-11T17:30:42Z,Web Development
 564546,Learn PHP from Scratch,https://www.udemy.com/learn-php-from-scratch-in-1-3-hr/,True,50,1550,25,27,Beginner Level,1.5,2015-07-26T20:44:15Z,Web Development
 516064,Learn Express,https://www.udemy.com/learn-express/,True,25,1309,60,14,Intermediate Level,1.5,2015-06-01T21:34:14Z,Web Development
-1024844,Build A Web App with VueJS, Spring Framework and MongoDB,https://www.udemy.com/build-a-message-board-app-with-vue-spring-and-mongodb/,True,145,251,32,25,All Levels,3.5,2016-11-30T21:59:37Z,Web Development
+1024844,"Build A Web App with VueJS, Spring Framework and MongoDB",https://www.udemy.com/build-a-message-board-app-with-vue-spring-and-mongodb/,True,145,251,32,25,All Levels,3.5,2016-11-30T21:59:37Z,Web Development
 631754,Zend Framework 2: Learn the PHP framework ZF2 from scratch,https://www.udemy.com/zend-framework-2-from-beginner-to-professional/,True,40,723,130,37,All Levels,6.5,2015-11-11T18:55:45Z,Web Development
 142666,Improved SEO with Rich Snippets and MicroData,https://www.udemy.com/improved-seo-with-rich-snippets-and-microdata/,False,0,11026,228,13,Intermediate Level,1.0,2014-06-09T10:35:40Z,Web Development
 440006,X theme for WordPress: Responsive web design without code!,https://www.udemy.com/x-theme-for-wordpress-responsive-websites-without-code/,True,20,1318,81,55,All Levels,7.0,2015-03-22T22:46:36Z,Web Development
@@ -745,7 +746,7 @@
 447136,Mastering the Google Chrome Developer Tools,https://www.udemy.com/mastering-chrome-developer-tools/,True,20,2002,41,31,All Levels,0.6666666666666666,2015-04-21T16:45:07Z,Web Development
 525034,Kali Linux Web App Testing,https://www.udemy.com/kali-linux-web-app-testing/,True,75,876,48,29,All Levels,3.0,2015-06-11T18:38:08Z,Web Development
 769314,Learn Ruby Programming The Easy Way - Lite,https://www.udemy.com/learn-ruby-programming-the-easy-way-lite/,True,20,1186,12,7,All Levels,0.5666666666666667,2016-02-21T20:31:57Z,Web Development
-574082,Web Scraping with Python, Ruby & import. io,https://www.udemy.com/web-scraping-with-python-ruby-import-io-for-fun-profit/,True,75,973,50,46,All Levels,4.5,2015-08-09T22:16:41Z,Web Development
+574082,"Web Scraping with Python, Ruby & import. io",https://www.udemy.com/web-scraping-with-python-ruby-import-io-for-fun-profit/,True,75,973,50,46,All Levels,4.5,2015-08-09T22:16:41Z,Web Development
 770526,Sending email with PHP: from Basic to Advanced,https://www.udemy.com/php-email/,True,40,379,58,45,All Levels,2.0,2016-06-10T16:23:33Z,Web Development
 510784,WordPress 2016 for Beginners : Build awesome websites!,https://www.udemy.com/build-your-own-wordpress-website-in-less-than-90-minutes/,True,20,2177,13,43,All Levels,4.0,2015-07-13T20:39:05Z,Web Development
 551702,Learn to make websites with Google's Material Design Lite,https://www.udemy.com/learn-googles-material-design-lite/,True,20,1063,72,84,All Levels,5.5,2015-07-20T17:23:16Z,Web Development
@@ -761,7 +762,7 @@
 369662,Running a Web Development Business: The Complete Guide,https://www.udemy.com/the-complete-guide-to-running-a-web-development-business/,True,150,24575,525,98,All Levels,19.5,2015-08-26T19:25:06Z,Web Development
 318638,Projects In JavaScript & JQuery,https://www.udemy.com/projects-in-javascript-jquery/,True,60,9109,620,50,All Levels,9.0,2014-10-16T09:56:39Z,Web Development
 231176,Learn To Build Beautiful HTML5 And CSS3 Websites In 1 Month,https://www.udemy.com/learn-to-build-beautiful-html5-and-css3-websites-in-1-month/,True,50,18818,407,80,All Levels,11.0,2014-06-03T08:48:34Z,Web Development
-1115348,Full stack Universal React with Redux, Node js and MongoDB,https://www.udemy.com/full-stack-universal-react-with-redux-express-and-mongodb/,True,195,1121,174,62,Intermediate Level,5.0,2017-05-08T21:59:53Z,Web Development
+1115348,"Full stack Universal React with Redux, Node js and MongoDB",https://www.udemy.com/full-stack-universal-react-with-redux-express-and-mongodb/,True,195,1121,174,62,Intermediate Level,5.0,2017-05-08T21:59:53Z,Web Development
 34882,Creating an MP3 Player with HTML5,https://www.udemy.com/creating-an-mp3-player-with-html5/,True,20,14551,169,14,All Levels,1.5,2013-01-31T13:44:52Z,Web Development
 537008,Be a Bootstrap Developer from scratch,https://www.udemy.com/be-a-bootstrap-developer-from-scratch/,True,100,5800,185,32,Beginner Level,3.5,2015-07-20T20:38:56Z,Web Development
 806020,Create Your First Wordpress Site in Under an Hour,https://www.udemy.com/how-to-install-wordpress-/,True,20,4867,128,12,Beginner Level,1.0,2016-03-30T00:41:00Z,Web Development
@@ -769,7 +770,7 @@
 1023070,Creating FaceBook Design Using Bootstrap - Handson Project,https://www.udemy.com/facebook-design-using-bootstrap/,True,80,4616,20,19,All Levels,2.0,2016-12-06T23:46:15Z,Web Development
 778226,Building HTML5 Canvas projects from scratch,https://www.udemy.com/building-html5-canvas-projects-from-scratch/,True,100,8968,35,25,Beginner Level,2.0,2016-03-03T20:36:35Z,Web Development
 1217948,Learn How To Become a Web Developer From Scratch,https://www.udemy.com/learn-how-to-become-a-front-end-web-developer-from-scratch/,True,200,7062,72,172,Beginner Level,11.0,2017-05-28T19:38:52Z,Web Development
-1027276,Earn Big Profits With Web Development, Simple and Easy!,https://www.udemy.com/earn-big-profits-by-building-simple-and-easy-websites/,True,90,3073,27,13,Beginner Level,1.5,2017-01-18T22:48:53Z,Web Development
+1027276,"Earn Big Profits With Web Development, Simple and Easy!",https://www.udemy.com/earn-big-profits-by-building-simple-and-easy-websites/,True,90,3073,27,13,Beginner Level,1.5,2017-01-18T22:48:53Z,Web Development
 531360,BDD with Ruby on Rails using RSpec 3 and Capybara,https://www.udemy.com/rubyonrails-bdd-rspec-capybara/,True,175,2706,179,103,All Levels,13.0,2015-08-14T16:48:51Z,Web Development
 958132,Learn By Example: jQuery,https://www.udemy.com/learn-by-example-jquery/,True,50,1702,49,78,All Levels,7.0,2016-09-19T21:27:18Z,Web Development
 368340,Professional Python Web Development Using Flask,https://www.udemy.com/python-flask-course/,True,120,3420,489,102,Beginner Level,14.5,2015-03-04T00:10:36Z,Web Development
@@ -827,7 +828,7 @@
 597256,Learn Ruby Programming The Easy Way,https://www.udemy.com/learn-ruby-programming-the-easy-way/,True,35,3485,22,19,All Levels,2.0,2015-09-15T19:07:14Z,Web Development
 380582,Learn OAuth 2.0 - Get started as an API Security Expert,https://www.udemy.com/learn-oauth-2/,True,95,2185,283,45,All Levels,3.5,2015-07-20T22:38:11Z,Web Development
 572268,AngularJS For .Net Developers From Scratch,https://www.udemy.com/angularjs-for-dotnet-developers-from-scratch/,True,50,2494,303,40,Intermediate Level,4.5,2016-03-09T20:03:42Z,Web Development
-704582,Jekyll: make fast, secure static sites and blogs with Jekyll,https://www.udemy.com/static-website-generator-fast-secure-sites-blogs-with-jekyll/,True,45,2091,86,29,Beginner Level,2.5,2016-02-18T17:30:13Z,Web Development
+704582,"Jekyll: make fast, secure static sites and blogs with Jekyll",https://www.udemy.com/static-website-generator-fast-secure-sites-blogs-with-jekyll/,True,45,2091,86,29,Beginner Level,2.5,2016-02-18T17:30:13Z,Web Development
 981600,HTML and CSS BootCamp for Beginners,https://www.udemy.com/html-and-css-bootcamp-for-beginners/,True,30,1777,35,48,Beginner Level,6.5,2017-01-20T22:20:41Z,Web Development
 537282,Hosting Django: Amazon Web Services (AWS) Fundamentals,https://www.udemy.com/django-tutorial-amazon-web-services/,True,45,2573,103,46,All Levels,5.5,2015-10-19T21:30:02Z,Web Development
 1204590,Angular Advanced MasterClass & FREE E-Book,https://www.udemy.com/angular-advanced-masterclass/,True,150,228,9,72,Intermediate Level,6.5,2017-07-03T21:59:45Z,Web Development
@@ -837,7 +838,7 @@
 1000574,The Complete Developers Guide to MongoDB,https://www.udemy.com/the-complete-developers-guide-to-mongodb/,True,150,10945,1286,129,All Levels,13.5,2016-11-15T01:25:44Z,Web Development
 1200530,Electron for Desktop Apps: The Complete Developer's Guide,https://www.udemy.com/electron-react-tutorial/,True,50,2606,241,77,Beginner Level,8.0,2017-05-16T19:43:44Z,Web Development
 995016,Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex),https://www.udemy.com/vuejs-2-the-complete-guide/,True,190,17671,4675,329,All Levels,18.0,2016-11-08T18:55:21Z,Web Development
-1208638,React JS, Angular & Vue JS - Quickstart & Comparison,https://www.udemy.com/angular-reactjs-vuejs-quickstart-comparison/,True,160,2273,288,142,Beginner Level,8.0,2017-05-09T20:37:25Z,Web Development
+1208638,"React JS, Angular & Vue JS - Quickstart & Comparison",https://www.udemy.com/angular-reactjs-vuejs-quickstart-comparison/,True,160,2273,288,142,Beginner Level,8.0,2017-05-09T20:37:25Z,Web Development
 851712,The Complete JavaScript Course: Build a Real-World Project,https://www.udemy.com/the-complete-javascript-course/,True,195,27801,4340,113,All Levels,17.5,2016-10-14T22:52:23Z,Web Development
 833442,Angular (Angular 2 or 4) & NodeJS - The MEAN Stack Guide,https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/,True,150,17297,3166,111,All Levels,8.5,2016-05-02T23:09:15Z,Web Development
 719002,Angular 2 with TypeScript for Beginners: The Pragmatic Guide,https://www.udemy.com/angular-2-tutorial-for-beginners/,True,150,40070,8341,194,All Levels,9.5,2016-03-03T20:17:59Z,Web Development
@@ -856,7 +857,7 @@
 369132,One-stop Ruby on Rails: Build Web Applications from Scratch,https://www.udemy.com/build-etsy-yelp-craigslist-and-a-web-scraper-from-scratch/,True,145,1628,162,129,All Levels,18.5,2015-01-13T06:40:32Z,Web Development
 777654,Learn what's new in PHP 7,https://www.udemy.com/php7-new-features/,False,0,12336,271,26,Intermediate Level,3.5,2016-04-04T22:32:13Z,Web Development
 1161118,Dive Into Docker: The Docker Course for Developers,https://www.udemy.com/dive-into-docker-the-complete-docker-course-for-developers/,False,0,6437,313,22,Beginner Level,1.5,2017-04-14T22:57:32Z,Web Development
-267286,Basic Concepts of Web Development, HTTP and Java Servlets,https://www.udemy.com/web-application-and-java-servlet-concepts/,True,35,2797,59,10,Beginner Level,1.0,2014-08-27T11:31:44Z,Web Development
+267286,"Basic Concepts of Web Development, HTTP and Java Servlets",https://www.udemy.com/web-application-and-java-servlet-concepts/,True,35,2797,59,10,Beginner Level,1.0,2014-08-27T11:31:44Z,Web Development
 1093608,The Most Comprehensive Web Development Course,https://www.udemy.com/comprehensive-web-developer-course/,True,200,333,22,353,All Levels,42.0,2017-05-01T22:36:28Z,Web Development
 289230,Learn and Understand AngularJS,https://www.udemy.com/learn-angularjs/,True,175,59361,11580,55,All Levels,7.0,2014-09-24T00:57:25Z,Web Development
 364426,JavaScript: Understanding the Weird Parts,https://www.udemy.com/understand-javascript/,True,175,79612,16976,85,All Levels,11.5,2015-03-12T23:19:54Z,Web Development
@@ -870,7 +871,7 @@
 1145430,Angular Styling & Animations (for Angular 2 and Angular 4),https://www.udemy.com/angular-styling-animations-for-angular-2-and-angular-4/,True,120,4138,307,107,Intermediate Level,6.0,2017-03-28T00:01:39Z,Web Development
 806922,The Complete ASP.NET MVC 5 Course,https://www.udemy.com/the-complete-aspnet-mvc-5-course/,True,190,20652,6357,138,All Levels,7.5,2016-05-16T17:04:54Z,Web Development
 1109926,GraphQL with React: The Complete Developers Guide,https://www.udemy.com/graphql-with-react-course/,True,150,6412,987,114,Intermediate Level,13.0,2017-02-14T22:55:58Z,Web Development
-1134456,Create a Simple Photo Gallery with Dropzonejs, Slick and PHP,https://www.udemy.com/create-a-simple-photo-gallery-with-dropzonejs-slick-and-php/,False,0,2464,17,9,All Levels,0.7333333333333333,2017-03-07T15:40:37Z,Web Development
+1134456,"Create a Simple Photo Gallery with Dropzonejs, Slick and PHP",https://www.udemy.com/create-a-simple-photo-gallery-with-dropzonejs-slick-and-php/,False,0,2464,17,9,All Levels,0.7333333333333333,2017-03-07T15:40:37Z,Web Development
 552598,WordPress in under an hour - Create/manage your own website!,https://www.udemy.com/learn-wordpress-in-57-minutes/,False,0,6474,86,15,All Levels,1.0,2015-07-15T00:21:56Z,Web Development
 56585,Twitter Bootstrap 2 for Beginners,https://www.udemy.com/twitter-bootstrap/,True,20,2388,139,12,Beginner Level,1.0,2013-05-29T18:13:10Z,Web Development
 674040,Bootstrap Tutorial - Essentials From Basic to Advanced,https://www.udemy.com/bootstrap-tutorial-essentials-from-basic-to-advanced/,True,195,1494,23,62,All Levels,7.5,2015-11-29T22:38:00Z,Web Development
@@ -918,7 +919,7 @@
 343816,Learn SASS and improve your CSS,https://www.udemy.com/write-clean-css-using-sass/,True,55,1849,29,24,All Levels,3.0,2014-12-20T00:21:05Z,Web Development
 1127988,Angular Tutorial For Beginners,https://www.udemy.com/angular-tutorial-for-beginners/,False,0,5397,112,36,Beginner Level,2.5,2017-02-28T04:07:50Z,Web Development
 1079624,HTML and CSS for Absolute Beginners,https://www.udemy.com/html-and-css-for-absolute-beginners-with-examples/,False,0,4410,52,26,All Levels,3.0,2017-01-20T17:02:27Z,Web Development
-746790,JavaScript, jQuery and Ajax,https://www.udemy.com/ajax-calls-the-simplest-way/,True,20,1554,30,60,All Levels,4.0,2016-02-02T18:36:12Z,Web Development
+746790,"JavaScript, jQuery and Ajax",https://www.udemy.com/ajax-calls-the-simplest-way/,True,20,1554,30,60,All Levels,4.0,2016-02-02T18:36:12Z,Web Development
 1106646,Laravel Blog Development Starter,https://www.udemy.com/laravel-blog-development/,False,0,4499,138,20,All Levels,2.0,2017-02-14T00:38:18Z,Web Development
 647564,React: Learn ReactJS Fundamentals for Front-End Developers,https://www.udemy.com/react-fundamentals-frontend-developers/,True,55,1993,55,26,All Levels,4.0,2016-06-06T15:29:42Z,Web Development
 963378,JavaScript For Absolute Beginners - Level Two,https://www.udemy.com/javascript-for-absolute-beginners-level-two/,True,30,424,85,9,Intermediate Level,1.0,2016-09-20T17:59:39Z,Web Development
@@ -938,11 +939,11 @@
 909244,Docker for Developers - Newest Version 1.12 with Swarm Mode,https://www.udemy.com/docker-for-developers/,True,95,767,104,81,Beginner Level,5.5,2016-07-22T15:37:25Z,Web Development
 1102962,Angular Material - Quickstart,https://www.udemy.com/styling-angular-applications-with-angular-material/,False,0,3766,135,14,Beginner Level,0.7,2017-03-09T22:12:32Z,Web Development
 405926,HTML and CSS for Beginners - Build a Website & Launch ONLINE,https://www.udemy.com/html-and-css-for-beginners-crash-course-learn-fast-easy/,False,0,70773,5660,50,All Levels,6.0,2015-03-19T19:07:12Z,Web Development
-186096,Core: A Web App Reference Guide for Django, Python, and More,https://www.udemy.com/coding-for-entrepreneurs-core/,True,195,2497,98,154,All Levels,26.0,2014-05-29T00:58:43Z,Web Development
-832478,JSON with Java APIs, jQuery and JSON REST Web Services,https://www.udemy.com/learn-json-with-java-apis-jquery-and-rest/,True,95,799,87,41,Beginner Level,6.0,2016-05-30T23:54:43Z,Web Development
+186096,"Core: A Web App Reference Guide for Django, Python, and More",https://www.udemy.com/coding-for-entrepreneurs-core/,True,195,2497,98,154,All Levels,26.0,2014-05-29T00:58:43Z,Web Development
+832478,"JSON with Java APIs, jQuery and JSON REST Web Services",https://www.udemy.com/learn-json-with-java-apis-jquery-and-rest/,True,95,799,87,41,Beginner Level,6.0,2016-05-30T23:54:43Z,Web Development
 708578,Bootstrap 4 Quick Start: Code Modern Responsive Websites,https://www.udemy.com/bootstrap-4/,False,0,41478,2104,13,All Levels,3.0,2015-12-30T21:28:31Z,Web Development
 667992,Learn Symfony 3 framework by practical examples,https://www.udemy.com/learn-symfony-3-framework-by-practical-examples/,True,125,867,177,48,All Levels,4.0,2016-09-19T21:05:38Z,Web Development
-1050632,Complete Web Development with HTML, CSS and Javascript,https://www.udemy.com/complete-web-development-with-html-css-and-javascript/,False,0,2097,16,10,Intermediate Level,2.0,2017-06-27T21:49:31Z,Web Development
+1050632,"Complete Web Development with HTML, CSS and Javascript",https://www.udemy.com/complete-web-development-with-html-css-and-javascript/,False,0,2097,16,10,Intermediate Level,2.0,2017-06-27T21:49:31Z,Web Development
 380178,Web Hosting Introduction: How to Publish Your Website Online,https://www.udemy.com/web-hosting-introduction/,False,0,5533,137,11,Beginner Level,1.0,2015-02-09T00:55:50Z,Web Development
 924216,Django For Beginners,https://www.udemy.com/django-for-beginners/,True,175,534,16,51,Beginner Level,4.0,2016-08-23T18:49:41Z,Web Development
 1038538,Introduction to QGIS Python Programming,https://www.udemy.com/introduction-to-qgis-python-programming/,True,85,197,26,28,Beginner Level,3.5,2016-12-22T00:11:22Z,Web Development
@@ -965,7 +966,7 @@
 425086,Implementing a Data Warehouse with SQL Server 2012 ,https://www.udemy.com/implementing-a-data-warehouse-with-sql-server-2012/,True,85,1142,148,90,All Levels,5.0,2015-05-01T23:08:38Z,Web Development
 420982,Learning 200 jQuery Functions with 800 Examples,https://www.udemy.com/jquery-foundation/,True,195,1766,38,118,All Levels,18.5,2015-02-24T22:57:40Z,Web Development
 552594,Create Complete Web Applications easily with APEX 5,https://www.udemy.com/create-web-apps-with-apex-5/,True,30,912,128,81,Intermediate Level,7.0,2015-07-14T20:30:11Z,Web Development
-477250,Learn Gulp, The Streaming Build System,https://www.udemy.com/gulp-101/,True,25,1305,38,16,All Levels,1.5,2015-04-19T20:34:42Z,Web Development
+477250,"Learn Gulp, The Streaming Build System",https://www.udemy.com/gulp-101/,True,25,1305,38,16,All Levels,1.5,2015-04-19T20:34:42Z,Web Development
 1075570,Perfect React JS Course - Understand Relevant Details,https://www.udemy.com/perfect-react-js-course/,True,200,653,20,25,Beginner Level,1.0,2017-01-17T05:40:31Z,Web Development
 92194,Create a classified website in 2 hours - guaranteed,https://www.udemy.com/create-a-classified-website-in-2-hours-guaranteed/,True,50,3411,84,22,All Levels,1.0,2013-11-09T09:36:07Z,Web Development
 699618,Learn HTML And CSS From Scratch,https://www.udemy.com/html-and-css-from-scratch/,False,0,11533,240,18,Beginner Level,2.0,2016-02-19T15:50:39Z,Web Development
@@ -1017,7 +1018,7 @@
 713098,Build an Amazon clone: Nodejs + MongoDB + Stripe Payment,https://www.udemy.com/build-an-amazon-clone-nodejs-stripe-elasticsearch/,True,20,2164,290,70,All Levels,8.5,2016-01-08T17:16:48Z,Web Development
 701570,Build Real World Websites from Scratch using HTML5 and CSS3,https://www.udemy.com/web-development-html5-css3/,True,195,10874,114,59,Beginner Level,7.5,2016-01-25T18:00:51Z,Web Development
 1198704,How to become an App Developer,https://www.udemy.com/how-to-become-an-app-developer/,True,200,1935,17,10,Beginner Level,1.0,2017-05-19T21:39:35Z,Web Development
-807874,Modern JavaScript: Building Real-World, Real-Time Apps,https://www.udemy.com/real-world-real-time-modern-javascript/,True,50,1871,154,60,Intermediate Level,13.5,2016-03-30T21:15:15Z,Web Development
+807874,"Modern JavaScript: Building Real-World, Real-Time Apps",https://www.udemy.com/real-world-real-time-modern-javascript/,True,50,1871,154,60,Intermediate Level,13.5,2016-03-30T21:15:15Z,Web Development
 607056,JavaScript Introduction to Object Oriented JavaScript,https://www.udemy.com/javascript-introduction-to-object-oriented-javascript/,True,90,7789,59,23,Beginner Level,1.5,2015-10-01T17:43:34Z,Web Development
 587902,Core HTML How to get online quickly HTML to HTML5 ,https://www.udemy.com/web-development-introduction-html-html5-course/,True,90,10394,33,34,Beginner Level,3.5,2015-08-21T18:53:23Z,Web Development
 963412,Building Websites JavaScript and the DOM,https://www.udemy.com/building-websites-learn-javascript-and-the-dom/,True,120,17759,64,37,Beginner Level,3.0,2016-09-26T14:48:26Z,Web Development
@@ -1045,12 +1046,12 @@
 1176686,Mastering Basic CSS Selectors.,https://www.udemy.com/mastering-basic-css-selectors/,False,0,3933,23,14,Beginner Level,3.0,2017-05-09T22:13:22Z,Web Development
 744618,Create a Website Similar to Facebook from Scratch!,https://www.udemy.com/clone-facebook/,True,25,2197,9,12,All Levels,1.5,2016-02-09T06:15:07Z,Web Development
 473622,Comprehensive TypeScript,https://www.udemy.com/typescript101/,True,125,1318,78,51,All Levels,4.5,2015-04-13T19:00:50Z,Web Development
-470412,Essential HTML, CSS & HTML5 Training,https://www.udemy.com/essential-html-css-html5-training/,True,50,1553,35,43,Beginner Level,5.5,2015-04-12T22:20:58Z,Web Development
+470412,"Essential HTML, CSS & HTML5 Training",https://www.udemy.com/essential-html-css-html5-training/,True,50,1553,35,43,Beginner Level,5.5,2015-04-12T22:20:58Z,Web Development
 758208,HTML 5 and CSS 3 - tricks and workarounds,https://www.udemy.com/html5-css3-tricks-and-workarounds/,True,80,2007,10,113,All Levels,5.5,2016-02-18T00:21:26Z,Web Development
-505780,How to Register a Domain, Set Up Hosting, and Edit Web Pages,https://www.udemy.com/register-domain-setup-hosting-create-web-page/,True,45,1540,19,39,Beginner Level,3.0,2015-05-21T19:37:46Z,Web Development
+505780,"How to Register a Domain, Set Up Hosting, and Edit Web Pages",https://www.udemy.com/register-domain-setup-hosting-create-web-page/,True,45,1540,19,39,Beginner Level,3.0,2015-05-21T19:37:46Z,Web Development
 568524,WordPress Plugins Treasure Chest,https://www.udemy.com/best-wordpress-plugins-treasure-chest/,True,25,1655,10,44,Intermediate Level,3.0,2015-08-06T21:01:21Z,Web Development
 890810,Practical Understanding of PHP and MySQL,https://www.udemy.com/practical-understanding-of-php-and-myqsl-demo/,False,0,12201,217,24,Beginner Level,5.5,2016-07-06T16:35:25Z,Web Development
-332252,AngularJS for Beginners, Single-Page Applications Made Easy,https://www.udemy.com/angularjs-tutorial/,True,200,1284,46,30,All Levels,1.5,2014-11-18T06:03:56Z,Web Development
+332252,"AngularJS for Beginners, Single-Page Applications Made Easy",https://www.udemy.com/angularjs-tutorial/,True,200,1284,46,30,All Levels,1.5,2014-11-18T06:03:56Z,Web Development
 431576,Building a Social Network in PHP & MySQL From Scratch,https://www.udemy.com/social-network-in-php-mysql/,True,50,869,125,78,All Levels,14.0,2015-03-17T16:54:15Z,Web Development
 1115128,XML DOM - Crash Course for Beginners,https://www.udemy.com/xml-dom-crash-course-for-beginners/,True,45,396,6,8,All Levels,0.5666666666666667,2017-02-19T23:41:32Z,Web Development
 716310,Create a Powerful Website with the Cool Bootstrap Framework,https://www.udemy.com/e107-tutorial-for-beginner-build-bootstrap-website/,False,0,7142,41,25,All Levels,4.0,2016-02-02T23:35:43Z,Web Development
@@ -1063,7 +1064,7 @@
 494510,WordPress Plugin Tutorial,https://www.udemy.com/wordpress-plugin-tutorial/,True,40,1588,8,15,Beginner Level,0.5666666666666667,2015-05-14T21:38:00Z,Web Development
 212624,Introduction to HTML,https://www.udemy.com/refactoru-intro-html/,False,0,8371,212,18,Beginner Level,1.5,2014-08-30T01:33:38Z,Web Development
 1259422,Learn JavaScript From Scratch:Become Top Rated Web Developer,https://www.udemy.com/learnjsandbecometopratedwebdeveloper/,True,65,2570,17,87,All Levels,5.0,2017-06-29T18:10:15Z,Web Development
-326244,Installing Wordpress 4 - Installation, Registrars & Hosting,https://www.udemy.com/installing-wordpress-domain-registrars-and-web-hosting/,True,45,6117,188,28,Beginner Level,2.5,2014-10-31T07:21:32Z,Web Development
+326244,"Installing Wordpress 4 - Installation, Registrars & Hosting",https://www.udemy.com/installing-wordpress-domain-registrars-and-web-hosting/,True,45,6117,188,28,Beginner Level,2.5,2014-10-31T07:21:32Z,Web Development
 573716,Learn PHP Programming for Absolute Beginners,https://www.udemy.com/learn-php-programming-for-absolute-beginners/,True,35,5368,78,20,All Levels,2.0,2015-08-05T18:47:48Z,Web Development
 1172166,WordPress for Beginners 2017 + Google AdSense Implementation,https://www.udemy.com/wordpress-tutorial-for-beginners-and-google-adsense-implementation/,True,195,2225,14,64,All Levels,6.5,2017-06-05T18:20:34Z,Web Development
 1021834,JavaScript for beginners in 1 hour,https://www.udemy.com/learn-javascript-in-1-hour-and-create-a-game-in-javascript/,True,95,2086,56,22,Beginner Level,1.0,2016-12-12T16:52:38Z,Web Development
@@ -1097,7 +1098,7 @@
 416738,Create a Client Network by Hosting WordPress Sites,https://www.udemy.com/create-a-client-network-by-hosting-wordpress-sites/,True,35,1061,8,17,Intermediate Level,1.0,2015-03-02T21:42:06Z,Web Development
 576108,Introduction to PHP Slim Microframework,https://www.udemy.com/introduction-to-php-slim-microframework/,True,20,1312,19,11,Intermediate Level,1.0,2015-08-07T16:53:35Z,Web Development
 971022,ASP :basics for beginners,https://www.udemy.com/asp-basics-for-beginners/,True,35,764,7,8,All Levels,1.0,2016-09-29T15:52:42Z,Web Development
-966794,WordPress Development With NodeJS, Gulp, Composer & More,https://www.udemy.com/wordpress-development-with-nodejs-gulpjs-composer-sass-more/,True,25,289,30,30,Intermediate Level,4.0,2016-10-25T13:47:26Z,Web Development
+966794,"WordPress Development With NodeJS, Gulp, Composer & More",https://www.udemy.com/wordpress-development-with-nodejs-gulpjs-composer-sass-more/,True,25,289,30,30,Intermediate Level,4.0,2016-10-25T13:47:26Z,Web Development
 1200874,Become PHP Facebook Developer: Password-Less Authentication,https://www.udemy.com/php-facebook-developer-password-less-authentication/,True,195,4001,8,37,All Levels,4.0,2017-05-07T19:30:36Z,Web Development
 780056,How To Create Your Very First Website With HTML and CSS,https://www.udemy.com/how-to-create-a-website-with-html-and-css/,True,100,5097,196,37,Beginner Level,2.0,2016-04-09T01:56:01Z,Web Development
 1274210,Learn JSON for beginners with JavaScript,https://www.udemy.com/json-javascript-course/,True,200,3193,10,23,Beginner Level,1.5,2017-06-30T17:40:02Z,Web Development
@@ -1130,7 +1131,7 @@
 56513,Social Network Web Development,https://www.udemy.com/how-to-create-a-social-network-site-from-scratch/,True,200,2698,29,57,All Levels,8.0,2013-09-03T06:29:24Z,Web Development
 921560,For Free - Deploy Quickly Spring Boot on Heroku With MySQL,https://www.udemy.com/learn-quickly-deploying-spring-boot-app-on-heroku-with-mysql/,True,95,177,19,10,All Levels,1.0,2016-08-06T07:33:17Z,Web Development
 366608,Building Web Applications with Spring MVC,https://www.udemy.com/building-web-applications-with-spring-mvc/,True,85,714,48,28,All Levels,3.0,2014-12-09T13:34:19Z,Web Development
-527834,HTML5, CSS3 & Bootstrap - How to Create a Responsive Website,https://www.udemy.com/html5-css3-bootstrap-how-to-create-a-responsive-website/,True,20,1062,20,32,All Levels,3.5,2015-07-31T23:56:22Z,Web Development
+527834,"HTML5, CSS3 & Bootstrap - How to Create a Responsive Website",https://www.udemy.com/html5-css3-bootstrap-how-to-create-a-responsive-website/,True,20,1062,20,32,All Levels,3.5,2015-07-31T23:56:22Z,Web Development
 287010,HTML & CSS - Learn to build sleek websites ,https://www.udemy.com/html-css-learn-to-build-sleek-websites/,True,55,1552,14,44,All Levels,3.5,2014-10-21T03:35:47Z,Web Development
 1019918,Master Angular 2 - The No Nonsense Course,https://www.udemy.com/angular-2-tutorial/,True,25,102,27,36,Beginner Level,2.5,2016-11-24T04:06:21Z,Web Development
 442580,Master ASP . NET 4 from scratch,https://www.udemy.com/masteraspnet/,True,50,613,135,116,All Levels,16.0,2015-08-18T20:58:37Z,Web Development
@@ -1144,8 +1145,8 @@
 806536,Master Riot: Learn Riot.js from Scratch,https://www.udemy.com/master-riot/,True,125,299,75,34,Intermediate Level,3.5,2016-07-14T16:57:24Z,Web Development
 947204,Learn W3.CSS,https://www.udemy.com/learn-w3css/,True,50,1002,7,10,All Levels,0.5666666666666667,2016-09-01T17:18:52Z,Web Development
 468726,Learning Axure RP,https://www.udemy.com/learning-axure-rp/,True,75,631,103,65,All Levels,4.5,2015-04-08T19:29:35Z,Web Development
-697798,Complete guide to install Wordpress, PHP on Cloud,AWS or VPS,https://www.udemy.com/a-complete-guide-to-install-wordpress-php-on-cloud-server-aws-or-vps/,True,50,1386,17,28,All Levels,3.0,2016-01-06T17:20:55Z,Web Development
-30261,Kids Coding -Introduction to HTML, CSS and JavaScript,https://www.udemy.com/kids-coding-introduction-to-html-css-and-javascript/,True,200,2355,143,215,Beginner Level,7.0,2012-11-26T20:00:40Z,Web Development
+697798,"Complete guide to install Wordpress, PHP on Cloud,AWS or VPS",https://www.udemy.com/a-complete-guide-to-install-wordpress-php-on-cloud-server-aws-or-vps/,True,50,1386,17,28,All Levels,3.0,2016-01-06T17:20:55Z,Web Development
+30261,"Kids Coding -Introduction to HTML, CSS and JavaScript",https://www.udemy.com/kids-coding-introduction-to-html-css-and-javascript/,True,200,2355,143,215,Beginner Level,7.0,2012-11-26T20:00:40Z,Web Development
 730542,Introduction to Voice Design with Amazon's Alexa,https://www.udemy.com/amazonalexa/,False,0,6742,1036,6,Beginner Level,0.6833333333333333,2016-01-18T00:18:08Z,Web Development
 524248,How to Create a Social Network For a Niche-Related Community,https://www.udemy.com/how-to-create-a-social-network/,True,100,1853,34,39,All Levels,2.0,2015-07-12T22:55:57Z,Web Development
 1037666,Webpack 1 & 2 - The Complete Guide,https://www.udemy.com/webpack-complete-guide/,True,40,252,46,79,All Levels,6.5,2017-03-10T22:04:41Z,Web Development
@@ -1167,7 +1168,7 @@
 669346,Self Advertise Using PowerPoint Twitter and Facebook on ios,https://www.udemy.com/the-basic-roadmap-to-power-point-advertising-for-mac/,True,20,1780,15,6,Beginner Level,0.6,2015-11-17T00:55:11Z,Web Development
 123566,Learning Bootstrap 3 - Tutorial From Infinite Skills,https://www.udemy.com/bootstrap-3/,True,50,1266,90,50,All Levels,3.0,2013-11-21T23:53:03Z,Web Development
 628876,Practical Web Development: Make Websites Quickly And Easily,https://www.udemy.com/make-beautiful-websites-in-a-few-hours/,True,20,2389,7,20,All Levels,2.0,2015-11-29T23:31:46Z,Web Development
-378924,Learn animation using CSS3, Javascript and HTML5,https://www.udemy.com/animating-css-javascript/,True,40,1468,54,18,All Levels,2.5,2015-03-24T18:43:38Z,Web Development
+378924,"Learn animation using CSS3, Javascript and HTML5",https://www.udemy.com/animating-css-javascript/,True,40,1468,54,18,All Levels,2.5,2015-03-24T18:43:38Z,Web Development
 869448,Creating Interactive HTML5 Video,https://www.udemy.com/creating-interactive-html5-video/,True,25,838,13,23,Intermediate Level,2.0,2016-06-06T15:24:53Z,Web Development
 1207382,Optimizing Wordpress for More Speed and Revenue,https://www.udemy.com/optimizing-wordpress-for-more-speed-and-revenue/,False,0,2649,16,7,Intermediate Level,0.5833333333333334,2017-06-12T22:56:09Z,Web Development
 628430,JavaScript project Learn to create a memory Game and more,https://www.udemy.com/javascript-project-learn-to-create-a-memory-game-and-more/,True,95,6000,21,25,Beginner Level,1.5,2015-10-02T17:26:20Z,Web Development
@@ -1177,10 +1178,10 @@
 769390,Angular 2 Master Class with Alejandro Rangel,https://www.udemy.com/angular-2-master-class-with-alejandro-rangel/,True,30,4157,206,80,All Levels,9.5,2016-03-01T00:07:14Z,Web Development
 830834,Quick learning jQuery web development,https://www.udemy.com/quick-learning-jquery-web-development/,True,150,3388,67,39,Intermediate Level,3.0,2016-04-25T17:04:36Z,Web Development
 1203040,Google Blogger Course,https://www.udemy.com/free-blogger-course/,True,60,1343,11,22,Intermediate Level,3.5,2017-05-05T16:32:38Z,Web Development
-564366,Ajax in JavaScript and JQuery, with PHP - Creating Chat App,https://www.udemy.com/ajax-in-javascript-and-jquery-with-php/,True,200,3399,85,15,All Levels,1.5,2015-07-27T20:23:28Z,Web Development
+564366,"Ajax in JavaScript and JQuery, with PHP - Creating Chat App",https://www.udemy.com/ajax-in-javascript-and-jquery-with-php/,True,200,3399,85,15,All Levels,1.5,2015-07-27T20:23:28Z,Web Development
 1124280,PHP Tutorial: Learn PHP Basic Programming for Beginners,https://www.udemy.com/php-tutorial-beginners/,True,20,2510,21,23,Beginner Level,1.5,2017-03-08T19:04:55Z,Web Development
 1135712,Mastering Modern Web Development Using React,https://www.udemy.com/mastering-modern-web-development-using-react/,True,195,1537,8,29,All Levels,2.5,2017-03-13T21:46:44Z,Web Development
-823996,Full Stack JavaScript: Learn Backbone.js, Node.js & MongoDB,https://www.udemy.com/fullstack-javascript/,True,50,6134,93,15,Beginner Level,2.0,2016-04-17T20:13:31Z,Web Development
+823996,"Full Stack JavaScript: Learn Backbone.js, Node.js & MongoDB",https://www.udemy.com/fullstack-javascript/,True,50,6134,93,15,Beginner Level,2.0,2016-04-17T20:13:31Z,Web Development
 260756,The Essential Web Developer Course - Build 12 Websites,https://www.udemy.com/the-essential-web-developer-course/,True,200,9355,390,177,All Levels,16.5,2015-11-02T17:41:42Z,Web Development
 533416,Build Powerful Websites & Blogs using WordPress - No Coding,https://www.udemy.com/powerful-websites-blogs-using-wordpress-no-coding/,True,20,1024,14,26,Beginner Level,3.0,2016-04-04T17:54:52Z,Web Development
 672090,Learn to Build Web Apps using UnderscoreJS : Code Like a Pro,https://www.udemy.com/learn-to-build-web-apps-using-underscorejs-code-like-a-pro/,True,40,325,37,27,All Levels,3.5,2015-11-18T17:58:36Z,Web Development

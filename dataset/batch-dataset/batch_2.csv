@@ -1,3 +1,4 @@
+course_id,course_title,url,is_paid,price,num_subscribers,num_reviews,num_lectures,level,content_duration,published_timestamp,subject
 871358,Financial Modeling and Valuation: Complete Beginner to Pro,https://www.udemy.com/financial-modeling-and-valuation-complete-beginner-to-pro/,True,50,249,46,28,All Levels,5.0,2016-06-20T22:09:31Z,Business Finance
 931588,Learn to trade Chart Patterns,https://www.udemy.com/learn-to-trade-chart-patterns/,True,20,75,8,23,Intermediate Level,2.0,2016-08-17T17:04:54Z,Business Finance
 880202,Anatomy and Figure Drawing for Beginners,https://www.udemy.com/anatomy-and-figure-drawing-for-games-and-comics/,True,150,2252,240,111,Beginner Level,21.0,2016-06-20T15:31:48Z,Graphic Design
@@ -85,7 +86,7 @@
 513782,Removing Backgrounds From Images using Adobe Photoshop,https://www.udemy.com/removing-backgrounds-from-images-using-adobe-photoshop/,True,20,1768,20,14,All Levels,0.6833333333333333,2015-06-03T18:11:41Z,Graphic Design
 19164,Graphic Design Secrets Revealed,https://www.udemy.com/design-like-a-pro-graphic-design-fundamentals/,True,95,2555,28,55,All Levels,6.0,2012-09-04T02:21:04Z,Graphic Design
 637402,Drawing in Perspective,https://www.udemy.com/drawing-in-perspective/,True,25,426,63,28,All Levels,3.0,2016-05-27T19:39:14Z,Graphic Design
-901082,Digital Art in Adobe Illustrator CC: Angry Bird, Tom & Jerry,https://www.udemy.com/adobe-illustrator-cc-course/,False,0,3108,27,28,Beginner Level,2.5,2016-08-12T17:34:45Z,Graphic Design
+901082,"Digital Art in Adobe Illustrator CC: Angry Bird, Tom & Jerry",https://www.udemy.com/adobe-illustrator-cc-course/,False,0,3108,27,28,Beginner Level,2.5,2016-08-12T17:34:45Z,Graphic Design
 608090,Adobe Illustrator For Beginners: Design A Typographic Logo,https://www.udemy.com/illustratorforbeginners/,True,30,276,54,27,Beginner Level,1.5,2015-10-15T22:29:00Z,Graphic Design
 1165016,Surface Pattern Design : Create Scandinavian Patterns,https://www.udemy.com/surface-pattern-design-scandinavian-art-research-to-finished-design/,True,40,390,6,8,All Levels,0.7,2017-04-04T15:03:18Z,Graphic Design
 755680,Draw a realistic Fantail using pencil,https://www.udemy.com/draw-a-realistic-fantail-using-pencil/,False,0,6754,109,20,All Levels,1.0,2016-02-11T22:05:05Z,Graphic Design
@@ -152,7 +153,7 @@
 927336,Graphicriver Autor – Verkaufe deine Designs online,https://www.udemy.com/graphicriver-autor-verkaufe-deine-designs-online/,True,30,65,8,20,All Levels,1.5,2016-09-27T14:20:14Z,Graphic Design
 1022032,Adobe Illustrator CC,https://www.udemy.com/adobe-illustrator-cc-m/,True,20,43,12,46,Intermediate Level,9.5,2016-12-26T18:58:09Z,Graphic Design
 1101806,캔바(Canva)로 SNS 콘텐츠 만들기,https://www.udemy.com/canvasns/,True,30,44,13,19,Beginner Level,2.0,2017-02-06T21:39:19Z,Graphic Design
-1246168,Illustrator para criação de peças gráficas, Design Gráfico,https://www.udemy.com/aula-de-illustrator-como-fazer-um-infografico/,True,100,33,3,41,Beginner Level,1.5,2017-06-13T04:15:20Z,Graphic Design
+1246168,"Illustrator para criação de peças gráficas, Design Gráfico",https://www.udemy.com/aula-de-illustrator-como-fazer-um-infografico/,True,100,33,3,41,Beginner Level,1.5,2017-06-13T04:15:20Z,Graphic Design
 1242692,Photoshop Workflow - Manipulação de imagem para Publicidade,https://www.udemy.com/photoshop-workflow-profissional/,True,135,20,8,53,Expert Level,12.5,2017-06-28T03:28:04Z,Graphic Design
 1185390,Como Produzir Ebook e Livros com Adobe Indesign CC e CS6,https://www.udemy.com/como-produzir-ebook-e-livros-com-adobe-indesign-cc/,True,80,37,6,131,All Levels,12.5,2017-04-19T06:48:47Z,Graphic Design
 700942,Curso básico de Gimp; software gratis de diseño gráfico,https://www.udemy.com/curso-basico-gimp/,True,60,190,25,36,Beginner Level,2.0,2015-12-22T00:06:02Z,Graphic Design
@@ -184,7 +185,7 @@
 654038,How To Sell Your Art Online With ETSY,https://www.udemy.com/how-to-sell-your-art-online-on-etsy/,True,100,1338,38,35,Beginner Level,3.0,2015-11-11T01:26:13Z,Graphic Design
 438420,Ultimate Guide on Freelancing Career in Photoshop Design,https://www.udemy.com/freelancing-career-in-photoshop-design/,True,165,1479,49,82,All Levels,6.5,2015-04-30T19:41:43Z,Graphic Design
 1246636,Photoshop - Como criar Fusão de forma profissional,https://www.udemy.com/curso-de-photoshop-composicao-bombeiros/,True,30,38,6,34,All Levels,4.0,2017-06-12T13:19:09Z,Graphic Design
-406424,Photoshop, Illustrator, InDesign & Graphic Design Principles,https://www.udemy.com/photoshop-illustrator-indesign-graphic-design-principles/,True,30,934,143,41,All Levels,12.0,2015-02-02T14:24:21Z,Graphic Design
+406424,"Photoshop, Illustrator, InDesign & Graphic Design Principles",https://www.udemy.com/photoshop-illustrator-indesign-graphic-design-principles/,True,30,934,143,41,All Levels,12.0,2015-02-02T14:24:21Z,Graphic Design
 1243016,Photoshop - Tratamento de pele profissional,https://www.udemy.com/como-fazer-retoque-de-pele-profissional-em-10-passos/,True,100,50,5,16,Intermediate Level,1.5,2017-06-06T14:22:28Z,Graphic Design
 1266468,Indesign - Para quem quer trabalhar com Design Gráfico,https://www.udemy.com/indesign-como-criar-layouts-pecas-graficas/,True,100,27,7,12,Intermediate Level,2.5,2017-06-27T02:48:29Z,Graphic Design
 611804,Primeros Pasos con Photoshop CC,https://www.udemy.com/felinu-primeros-pasos-con-photoshop/,False,0,6429,654,31,Beginner Level,2.5,2015-09-23T15:30:59Z,Graphic Design
@@ -205,7 +206,7 @@
 1197810,Gestalt Principles & Pattern Design : Create Festive Pattern,https://www.udemy.com/gestalt-principles-surface-pattern-design-create-festive-pattern/,True,50,327,0,14,All Levels,1.0,2017-05-02T04:52:52Z,Graphic Design
 971260,Logo Design - Design a Logo in Photoshop for beginners,https://www.udemy.com/logo-design-photoshop/,True,30,740,20,12,Beginner Level,0.5833333333333334,2016-12-02T18:27:20Z,Graphic Design
 960326,Advanced Features in Adobe Illustrator,https://www.udemy.com/advanced-features-in-adobe-illustrator/,True,30,1348,6,14,Intermediate Level,1.0,2016-10-12T17:13:16Z,Graphic Design
-144222,YOU can Draw, Shade and Paint a Mixed Media Girl...today!,https://www.udemy.com/paint-a-mixed-media-girl/,True,30,1249,44,19,Beginner Level,3.0,2014-01-28T02:30:26Z,Graphic Design
+144222,"YOU can Draw, Shade and Paint a Mixed Media Girl...today!",https://www.udemy.com/paint-a-mixed-media-girl/,True,30,1249,44,19,Beginner Level,3.0,2014-01-28T02:30:26Z,Graphic Design
 447210,Photoshop | GIMP: Quick & Easy Image Hacks for Beginners,https://www.udemy.com/photoshop-gimp-spotlight-top-image-hacks-you-need-to-know/,True,135,1275,26,42,Beginner Level,3.5,2015-05-27T19:07:13Z,Graphic Design
 482208,Learn Photoshop CC Essentials,https://www.udemy.com/learn-photoshop-cc-essentials/,True,75,3117,30,62,Beginner Level,4.5,2015-05-06T00:47:09Z,Graphic Design
 998580,Mobile App Design: From Beginner to Intermediate,https://www.udemy.com/mobile-app-design-from-beginner-to-intermediate/,True,140,896,21,108,All Levels,10.0,2017-02-20T17:42:07Z,Graphic Design
@@ -245,7 +246,7 @@
 783438,Learn Photoshop Actions - Save time with repetitive tasks,https://www.udemy.com/photoshop-actions-increase-your-efficiency/,True,25,507,2,7,Intermediate Level,0.6166666666666667,2016-03-08T22:05:33Z,Graphic Design
 49553,Essential Skills for Designers - Masking,https://www.udemy.com/photoshop-masking/,True,45,646,30,25,All Levels,2.0,2013-05-11T17:38:32Z,Graphic Design
 506164,Mastering Photoshop Elements 13 Made Easy Training Tutorial,https://www.udemy.com/mastering-photoshop-elements-13-made-easy-training-tutorial/,True,20,1738,8,166,Beginner Level,10.5,2015-05-22T20:50:12Z,Graphic Design
-280194,Become a Graphic Designer, and earn a living from it,https://www.udemy.com/become-a-graphic-designer-and-earn-a-living-from-it/,True,35,2354,12,37,All Levels,3.0,2014-09-17T13:20:56Z,Graphic Design
+280194,"Become a Graphic Designer, and earn a living from it",https://www.udemy.com/become-a-graphic-designer-and-earn-a-living-from-it/,True,35,2354,12,37,All Levels,3.0,2014-09-17T13:20:56Z,Graphic Design
 711210,Learn 2D Cell Shading in Photoshop,https://www.udemy.com/3dmotive-learn-2d-cell-shading-in-photoshop/,True,20,238,25,8,Intermediate Level,1.5,2016-03-14T16:25:09Z,Graphic Design
 905244,Adobe Illustrator For Everyone: Create Detailed Vector Image,https://www.udemy.com/how-to-create-your-own-steampunk-vehicle-part-1/,True,185,165,17,11,All Levels,1.5,2016-08-09T14:07:47Z,Graphic Design
 637066,Learn Digital Drawing in Photoshop,https://www.udemy.com/digital-drawing-in-photoshop/,True,20,1080,15,13,All Levels,2.0,2015-10-12T21:21:22Z,Graphic Design
@@ -263,7 +264,7 @@
 395140,Design and Animate a Gamer UI,https://www.udemy.com/design-and-animate-a-gamer-ui/,True,20,3481,37,6,All Levels,1.5,2015-01-15T19:59:29Z,Graphic Design
 866796,Learn Blender 3D - The materials and texture course,https://www.udemy.com/learn-blender-3d-the-materials-and-texture-course/,True,200,711,48,105,All Levels,12.5,2016-08-08T22:30:17Z,Graphic Design
 857144,FACEBOOK COVERS IN POWERPOINT,https://www.udemy.com/design-facebook-covers-in-powerpoint/,True,95,1123,31,13,Beginner Level,0.6333333333333333,2016-05-23T18:15:45Z,Graphic Design
-611370,Quote Images for Pinterest, Facebook, & Instagram,https://www.udemy.com/viral-images-pinterest-facebook-instagram/,False,0,12103,576,18,Beginner Level,1.0,2015-09-24T19:47:45Z,Graphic Design
+611370,"Quote Images for Pinterest, Facebook, & Instagram",https://www.udemy.com/viral-images-pinterest-facebook-instagram/,False,0,12103,576,18,Beginner Level,1.0,2015-09-24T19:47:45Z,Graphic Design
 452092,Adobe Illustrator: Create a Quick & Easy Unique Illustration,https://www.udemy.com/create-quick-easy-original-illustrations-in-illustrator/,True,95,1418,57,19,Beginner Level,1.5,2015-03-22T23:59:21Z,Graphic Design
 286424,Learn to Design a Logo in Adobe Illustrator,https://www.udemy.com/learn-to-design-a-logo-in-adobe-illustrator/,True,20,3390,49,29,All Levels,4.5,2014-08-23T23:17:22Z,Graphic Design
 348116,Photoshop In-Depth: Master all of Photoshop's Tools Easily,https://www.udemy.com/photoshop-tools/,False,0,53851,1779,45,All Levels,4.5,2014-11-30T04:22:11Z,Graphic Design
@@ -338,7 +339,7 @@
 590622,Logo Design - Guide to Logo Design in Photoshop,https://www.udemy.com/graphic-design-mastering-logo-design/,True,25,6215,86,17,All Levels,2.0,2016-02-05T05:20:39Z,Graphic Design
 249126,Logo Design Essentials ,https://www.udemy.com/logo-design/,True,20,33205,481,12,All Levels,0.7,2014-06-30T03:09:27Z,Graphic Design
 1163768,Fundamentals of Character Design: From Concept to Vector,https://www.udemy.com/fundamentals-of-character-design-from-concept-to-vector/,True,50,1452,10,11,Beginner Level,1.0,2017-04-01T03:45:46Z,Graphic Design
-1131780,Whiteboard Animation, Beginner To Expert - In 1 Hour!,https://www.udemy.com/whiteboardanimation/,True,20,1343,25,16,All Levels,1.0,2017-03-14T20:52:30Z,Graphic Design
+1131780,"Whiteboard Animation, Beginner To Expert - In 1 Hour!",https://www.udemy.com/whiteboardanimation/,True,20,1343,25,16,All Levels,1.0,2017-03-14T20:52:30Z,Graphic Design
 909486,Drawing Fun Caricatures! :) -The Best Method!,https://www.udemy.com/caricature/,True,25,41,11,6,All Levels,0.5833333333333334,2016-07-20T21:40:44Z,Graphic Design
 368958,Advanced Graphic Design-Photoshop CC 2014 for Photographers,https://www.udemy.com/advanced-graphic-design-photoshop-cc-2014-for-photographers/,True,20,314,11,19,All Levels,1.5,2014-12-19T05:55:57Z,Graphic Design
 201812,Design Beautiful & Professional Ebooks Using FREE Software,https://www.udemy.com/ebook-layouts/,True,20,239,7,26,All Levels,4.0,2014-04-25T02:40:11Z,Graphic Design
@@ -346,7 +347,7 @@
 553832,Create Professional Character Designs in Photoshop,https://www.udemy.com/create-professional-character-designs-in-photoshop/,True,20,228,11,21,Intermediate Level,4.0,2015-07-14T23:17:08Z,Graphic Design
 452182,How to Make a Custom Graphic From Sketches ,https://www.udemy.com/how-create-vector-art-from-drawings-by-hand/,True,20,21,4,17,Beginner Level,0.7333333333333333,2015-04-10T19:00:00Z,Graphic Design
 490392,Getting Started with Illustrator CC,https://www.udemy.com/getting-started-with-illustrator-cc2/,True,100,92,10,57,Beginner Level,5.5,2015-05-01T21:29:51Z,Graphic Design
-1093760,Photoshop From Scratch to Logos, Digital Drawing & Projects,https://www.udemy.com/photoshop-from-scratch-to-logos-digital-drawing-projects/,True,20,91,10,21,Beginner Level,1.5,2017-05-12T17:56:59Z,Graphic Design
+1093760,"Photoshop From Scratch to Logos, Digital Drawing & Projects",https://www.udemy.com/photoshop-from-scratch-to-logos-digital-drawing-projects/,True,20,91,10,21,Beginner Level,1.5,2017-05-12T17:56:59Z,Graphic Design
 1115504,How to Make Your Own Children's Interactive eBook!,https://www.udemy.com/make-your-own-childrens-interactive-picture-ebook/,True,95,33,2,17,Beginner Level,1.5,2017-02-17T23:41:59Z,Graphic Design
 446022,InDesign Basics for Beginners: Learn InDesign Quickly,https://www.udemy.com/indesign-basics-how-to-use-indesign-like-a-pro/,True,35,177,8,24,Beginner Level,1.5,2015-08-13T21:47:01Z,Graphic Design
 522784,Create an Accelerated Learning Flowchart with Watercolors,https://www.udemy.com/design-an-information-diet-plan-with-a-watercolor-flowchart/,True,200,668,5,16,All Levels,2.5,2015-06-08T17:56:38Z,Graphic Design
@@ -416,7 +417,7 @@
 1182330,Learn Logo Designing: 5 Types of Logo Designs in Illustrator,https://www.udemy.com/learn-logo-design-tutorial-in-illustrator-beginners/,True,30,106,2,19,Beginner Level,3.0,2017-05-09T19:00:35Z,Graphic Design
 172906,Practical Font Design,https://www.udemy.com/practical-font-design/,True,50,229,23,26,Intermediate Level,7.5,2014-04-16T15:08:48Z,Graphic Design
 766906,Smashing Photoshop CC/CS,https://www.udemy.com/smashing-photoshop/,True,20,437,7,76,Beginner Level,5.0,2016-04-26T23:02:01Z,Graphic Design
-379814,Sketching: How to Draw People, Hands, Eyes, Buildings & Cars,https://www.udemy.com/sketching-drawing/,True,20,500,16,31,All Levels,2.0,2014-12-29T21:50:46Z,Graphic Design
+379814,"Sketching: How to Draw People, Hands, Eyes, Buildings & Cars",https://www.udemy.com/sketching-drawing/,True,20,500,16,31,All Levels,2.0,2014-12-29T21:50:46Z,Graphic Design
 445102,Converting Type to Outlines in Adobe InDesign,https://www.udemy.com/type-to-outlines-indesign/,True,20,725,1,12,Intermediate Level,0.6333333333333333,2015-03-31T19:04:00Z,Graphic Design
 655198,Siemens NX Unigraphics (UG) Basic to Advance 3D Modelling,https://www.udemy.com/siemens-nx-unigraphics-ug-basic-to-advance-3d-modelling/,True,50,142,23,88,All Levels,10.5,2015-10-30T20:53:46Z,Graphic Design
 575040,Typography From A to Z,https://www.udemy.com/typography-from-a-to-z/,True,100,317,15,76,All Levels,6.0,2015-08-07T22:16:26Z,Graphic Design
@@ -506,7 +507,7 @@
 599652,48 Logo Designs and Techniques,https://www.udemy.com/professional-logo-design-vol-2/,True,20,113,9,48,All Levels,9.0,2015-09-15T00:23:14Z,Graphic Design
 524748,Photoshop JumpStart,https://www.udemy.com/photoshop-jumpstart/,True,20,66,13,13,Beginner Level,2.0,2015-07-02T21:41:25Z,Graphic Design
 310652,How To Sell Practically Anything: Professional Design Mockup,https://www.udemy.com/how-to-sell-practically-anything-professional-design-mockup/,True,50,52,2,19,All Levels,2.5,2014-10-08T09:08:28Z,Graphic Design
-946326,Learn Calligraphy, Handwriting animation wz After Effects,https://www.udemy.com/animate_calligraphy_art/,True,40,116,1,18,All Levels,2.5,2016-11-03T21:56:02Z,Graphic Design
+946326,"Learn Calligraphy, Handwriting animation wz After Effects",https://www.udemy.com/animate_calligraphy_art/,True,40,116,1,18,All Levels,2.5,2016-11-03T21:56:02Z,Graphic Design
 1146166,LaTeX A-Z: from beginner to advance in less than 3 hour,https://www.udemy.com/become-a-good-latex-user-to-create-professional-documents/,True,95,623,14,30,Beginner Level,3.0,2017-03-27T18:46:54Z,Graphic Design
 1190334,Course Bundle | Exploring Art : Silhouette & Linear Line Art,https://www.udemy.com/course-bundle-exploring-art-silhouette-linear-line-art/,True,80,827,1,15,All Levels,1.0,2017-04-24T16:52:39Z,Graphic Design
 895394,How To Build Your Own Web Banner Design Business,https://www.udemy.com/how-to-build-your-own-web-banner-design-business/,True,20,5000,7,21,All Levels,1.0,2016-07-05T18:41:46Z,Graphic Design
@@ -550,7 +551,7 @@
 753154,Making Corporate Flyers in Photoshop,https://www.udemy.com/making-corporate-flyers-in-photoshop/,True,20,4,3,7,All Levels,0.5166666666666666,2016-02-05T19:58:53Z,Graphic Design
 46524,Rock-Solid Brands,https://www.udemy.com/rock-solid-brands/,True,20,134,4,13,Beginner Level,0.5166666666666666,2016-02-17T17:06:32Z,Graphic Design
 634480,Typographic Poster Design - From Sketch to Vector,https://www.udemy.com/typographic-poster-design-from-sketch-to-vector/,True,45,36,5,20,Intermediate Level,1.5,2015-10-08T17:21:31Z,Graphic Design
-771044,Make Money With Photoshop: Logos, Business Cards & Brochures,https://www.udemy.com/make-money-with-photoshop-logos-business-cards-brochures/,True,100,32,4,21,All Levels,5.0,2016-08-14T22:05:04Z,Graphic Design
+771044,"Make Money With Photoshop: Logos, Business Cards & Brochures",https://www.udemy.com/make-money-with-photoshop-logos-business-cards-brochures/,True,100,32,4,21,All Levels,5.0,2016-08-14T22:05:04Z,Graphic Design
 497268,Photoshop the Art of Clipart,https://www.udemy.com/photoshop-the-art-of-clipart/,True,20,30,3,22,Beginner Level,1.0,2015-07-05T23:38:42Z,Graphic Design
 435138,Adobe Illustrator Creative Cloud:  Mastering the Upgrades,https://www.udemy.com/learn-illustrator-cc-updates/,True,20,22,3,57,Intermediate Level,2.0,2015-03-16T20:18:11Z,Graphic Design
 334530,Illustrator 101: Learn Quickly and Easily to create Artwork,https://www.udemy.com/make-money-freelancing-after-this-illustrator-course/,True,40,452,3,37,All Levels,1.0,2014-11-25T03:36:40Z,Graphic Design
@@ -571,7 +572,7 @@
 943724,Car Sketching with Simple Analog Tools,https://www.udemy.com/car-sketching-with-markers/,True,40,23,5,10,All Levels,0.6166666666666667,2016-08-29T18:50:57Z,Graphic Design
 546124,Drawing Anime & Manga Style,https://www.udemy.com/drawing-anime-and-manga-style/,True,25,82,5,40,All Levels,8.0,2015-07-10T23:16:44Z,Graphic Design
 876444,Inkscape 101 for Beginners - Design Vector Graphics,https://www.udemy.com/inkscape-101-for-beginners-design-vector-graphics/,True,195,13,5,26,Beginner Level,1.0,2016-06-13T18:28:02Z,Graphic Design
-893978,How to Fix Common Branding Mistakes, for Graphic Designers,https://www.udemy.com/how-to-fix-common-branding-mistakes-for-graphic-designers/,True,35,19,2,9,Intermediate Level,1.5,2016-11-18T22:15:11Z,Graphic Design
+893978,"How to Fix Common Branding Mistakes, for Graphic Designers",https://www.udemy.com/how-to-fix-common-branding-mistakes-for-graphic-designers/,True,35,19,2,9,Intermediate Level,1.5,2016-11-18T22:15:11Z,Graphic Design
 1249378,AutoCAD Course - Learn Online AutoCAD in Urdu Hindi,https://www.udemy.com/autocad-course-in-urdu-hindi/,False,0,105,2,22,All Levels,2.0,2017-06-13T17:32:48Z,Graphic Design
 273256,Mind-Blowing Photoshop: Master Skills Season 1,https://www.udemy.com/mind-blowing-photoshop-master-skills-season-1/,True,20,94,3,69,All Levels,3.0,2014-08-08T16:12:02Z,Graphic Design
 1240730,Architectural Drawing For Creatives,https://www.udemy.com/architectural-drawing-for-website-and-logo-designers/,True,195,5,0,156,All Levels,24.0,2017-06-21T15:35:08Z,Graphic Design
@@ -596,14 +597,14 @@
 659340,Pic Monkey for Beginners - Graphic Design and Photo Editing,https://www.udemy.com/pic-monkey-101/,True,20,774,3,17,Beginner Level,3.0,2015-11-08T22:12:37Z,Graphic Design
 835082,Corel Painter 2016,https://www.udemy.com/corel-painter-2016/,True,40,41,9,86,All Levels,8.0,2016-05-11T14:51:26Z,Graphic Design
 335902,eBook Cover Design,https://www.udemy.com/ebooks-cover-design/,True,20,30,3,14,Intermediate Level,1.5,2014-11-04T20:56:51Z,Graphic Design
-441106,Photoshop tips and tricks, how to change clothes,https://www.udemy.com/changing-clothes-with-photoshop/,True,20,837,4,26,All Levels,2.0,2015-03-16T18:36:17Z,Graphic Design
+441106,"Photoshop tips and tricks, how to change clothes",https://www.udemy.com/changing-clothes-with-photoshop/,True,20,837,4,26,All Levels,2.0,2015-03-16T18:36:17Z,Graphic Design
 624356,How to make Better Compositions: Take your art to new height,https://www.udemy.com/better-compositions/,True,30,11,3,8,All Levels,0.5333333333333333,2016-08-04T13:33:30Z,Graphic Design
 456388,Adobe Photoshop CC | The Essential Guide,https://www.udemy.com/adobe-photoshop-cc-the-essential-guide/,True,20,254,5,81,All Levels,4.5,2015-05-12T00:19:27Z,Graphic Design
 955242,Learn to Composite a 2D Action Shot in Photoshop,https://www.udemy.com/3dmotive-learn-to-composite-a-2d-action-shot-in-photoshop/,True,20,40,2,8,Beginner Level,1.5,2016-09-10T21:38:26Z,Graphic Design
 496430,Infographic Design: How To Create Your Own Infographic,https://www.udemy.com/infographic-design-how-to-create-your-own-infographic/,True,20,84,8,13,All Levels,2.0,2015-05-12T20:38:58Z,Graphic Design
 793246,Autodesk Inventor 2016 : Complete Guide ,https://www.udemy.com/learn-autodesk-inventor-2016/,True,20,23,4,83,Beginner Level,7.5,2016-03-22T20:35:56Z,Graphic Design
 547190,Amazing Graphic Design for Beginners,https://www.udemy.com/amazing-graphic-design-for-beginners/,True,20,32,10,5,Beginner Level,0.7,2015-07-08T19:58:01Z,Graphic Design
-696630,7 Ways A Beginner Guitarist Can Sound Better, Instantly!,https://www.udemy.com/nationalguitaracademy/,False,0,4529,193,7,Beginner Level,0.6,2015-12-21T18:50:50Z,Musical Instruments
+696630,"7 Ways A Beginner Guitarist Can Sound Better, Instantly!",https://www.udemy.com/nationalguitaracademy/,False,0,4529,193,7,Beginner Level,0.6,2015-12-21T18:50:50Z,Musical Instruments
 643970,Instant Harmonica - Christmas. Play Jingle Bells Part 1 now,https://www.udemy.com/instant-harmonica-christmas-play-jingle-bells-part-1-now/,True,20,823,11,10,All Levels,0.7,2015-12-11T18:42:43Z,Musical Instruments
 801486,Playing Piano:  Popular Pieces Vol. II,https://www.udemy.com/playing-piano-popular-pieces-volii/,True,150,1472,4,24,Beginner Level,1.5,2016-03-31T17:24:49Z,Musical Instruments
 455054,Ninja Chord Changes - Master your guitar chord changes,https://www.udemy.com/ninja-chord-changes/,True,30,1327,11,13,Beginner Level,1.5,2015-03-29T21:57:12Z,Musical Instruments
@@ -646,7 +647,7 @@
 40495,World's Fastest Piano Method - The Piano Revolution!,https://www.udemy.com/decplay-the-fastest-way-to-learn-piano/,True,95,1199,58,31,Beginner Level,2.0,2013-02-18T20:31:06Z,Musical Instruments
 184780,Learn to Play the Trumpet: Beginner to Pro Made the Easy Way,https://www.udemy.com/trumpet-a-beginners-guide/,True,50,966,157,145,Beginner Level,7.5,2014-03-21T10:19:54Z,Musical Instruments
 338926,Learn to Play Clarinet: Beginner to Pro in Under Five Hours,https://www.udemy.com/clarinet-a-beginners-guide/,True,50,877,93,88,Beginner Level,6.0,2015-01-01T01:25:39Z,Musical Instruments
-104304,Learn To Play The Piano Using Pop, R&B and Gospel Chords,https://www.udemy.com/learn-to-play-the-piano-using-pop-rb-and-gospel-chords/,True,50,1504,15,14,All Levels,0.6833333333333333,2013-10-15T18:13:46Z,Musical Instruments
+104304,"Learn To Play The Piano Using Pop, R&B and Gospel Chords",https://www.udemy.com/learn-to-play-the-piano-using-pop-rb-and-gospel-chords/,True,50,1504,15,14,All Levels,0.6833333333333333,2013-10-15T18:13:46Z,Musical Instruments
 413182,Play By Ear #4: Play Song By Ear with 3 Chords Using Any Key,https://www.udemy.com/play-by-ear-4-play-many-songs-by-ear-with-3-chords-sing/,True,95,1064,11,110,All Levels,2.5,2015-02-07T18:40:39Z,Musical Instruments
 1108666,Worship Piano: From Beginner to Pro,https://www.udemy.com/worship-piano-from-beginner-to-pro/,True,80,117,11,32,All Levels,3.0,2017-02-18T18:03:24Z,Musical Instruments
 692658,Easy to play Christmas Songs for Guitar,https://www.udemy.com/howtoplaychristmassongsontheguitar/,True,100,1229,8,11,All Levels,0.5,2015-12-12T00:29:50Z,Musical Instruments
@@ -658,7 +659,7 @@
 670640,31 Day Guitar Challenge,https://www.udemy.com/31dayguitar/,True,40,1029,22,32,Beginner Level,3.5,2015-11-30T19:03:27Z,Musical Instruments
 403078,Percussive Fingerstyle Guitar,https://www.udemy.com/percussive-fingerstyle-course/,True,50,886,43,74,Intermediate Level,1.5,2015-02-02T18:04:46Z,Musical Instruments
 174562,Learn to Play Saxophone: Beginner to Pro in Under Four Hours,https://www.udemy.com/saxophone-a-beginners-guide/,True,50,1213,158,77,Beginner Level,5.0,2014-03-03T19:36:23Z,Musical Instruments
-396238,Learn BASS GUITAR- Have Fun, Amaze Your Friends- It's Easy! ,https://www.udemy.com/bassguitar/,True,100,1605,19,52,Beginner Level,2.0,2015-02-13T03:27:03Z,Musical Instruments
+396238,"Learn BASS GUITAR- Have Fun, Amaze Your Friends- It's Easy! ",https://www.udemy.com/bassguitar/,True,100,1605,19,52,Beginner Level,2.0,2015-02-13T03:27:03Z,Musical Instruments
 20387,Guitar Insanity Workout - Eatmystrings!,https://www.udemy.com/eatmystrings-guitar-insanity-workout/,True,50,2673,17,29,All Levels,2.5,2012-07-06T21:33:05Z,Musical Instruments
 646906,Playing Piano:  Play Chords and Popular Pieces Vol.I,https://www.udemy.com/playing-piano-i-play-chords-and-popular-pieces/,True,100,1987,7,43,Beginner Level,3.0,2016-02-01T02:17:42Z,Musical Instruments
 783292,Guitar Chord Riot! Learn to Play Guitar Like a Guitar Jedi,https://www.udemy.com/guitar-chord-riot-learn-to-play-guitar-like-a-guitar-jedi/,True,75,1052,6,43,Intermediate Level,0.5,2016-03-11T23:46:06Z,Musical Instruments
@@ -680,8 +681,8 @@
 873386,Guitar Lessons: The Essential Beginner & Intermediate Course,https://www.udemy.com/guitar-lessons-the-essential-beginner-intermediate-course/,False,0,2566,39,23,All Levels,2.0,2016-06-10T18:18:36Z,Musical Instruments
 933818,Instant Harmonica - play the groovy Irish Washerwoman now!,https://www.udemy.com/instant-harmonica-play-the-groovy-irish-washerwoman-now/,True,40,55,8,13,Beginner Level,1.0,2017-01-24T23:11:26Z,Musical Instruments
 624118,Music Fundamentals: Learn Beatmaking with Pen Tapping,https://www.udemy.com/music-fundamentals-learn-beatmaking-with-pen-tapping/,True,200,537,2,22,All Levels,2.0,2015-11-13T22:12:07Z,Musical Instruments
-149716,Learn to Play Fernando Sor's 'Study in B minor",https://www.udemy.com/study-in-b-minor/,true,115,1403,5,9,Intermediate Level,43 mins,2014-01-27T20:58:16Z
-398746,Piano: The Chord Based System - Learn To Play As The Pros Do",https://www.udemy.com/learn-popular-piano-successfully-have-fun-making-music-now/,True,115,595,20,33,All Levels,2.0,2015-02-09T23:14:03Z,Musical Instruments
+149716,"Learn to Play Fernando Sor's 'Study in B minor",https://www.udemy.com/study-in-b-minor/,true,115,1403,5,9,Intermediate Level,43 mins,2014-01-27T20:58:16Z
+398746,Piano: The Chord Based System - Learn To Play As The Pros Do"",https://www.udemy.com/learn-popular-piano-successfully-have-fun-making-music-now/,True,115,595,20,33,All Levels,2.0,2015-02-09T23:14:03Z,Musical Instruments
 585946,Beginner Guitar Lessons by Paul Gronow,https://www.udemy.com/beginner-guitar-lessons-by-paul-gronow/,True,50,659,4,46,All Levels,3.5,2016-03-02T17:16:23Z,Musical Instruments
 876396,Guitar Fretboard Secrets,https://www.udemy.com/guitar-fretboard-secrets/,True,55,186,13,35,Intermediate Level,2.0,2016-12-01T00:20:53Z,Musical Instruments
 263818,Learn to Play French Horn: Beginner to Pro Made the Easy Way,https://www.udemy.com/beginninghorn/,True,50,460,27,131,Beginner Level,8.0,2014-10-29T19:43:24Z,Musical Instruments
@@ -690,7 +691,7 @@
 326428,Learn Piano Scales: Play any song in any key! Like Pro's do,https://www.udemy.com/learn-piano-scales/,True,50,1720,9,26,Beginner Level,2.5,2014-10-29T09:56:10Z,Musical Instruments
 769518,Instant Harmonica - play the groovy Valens La Bamba now!,https://www.udemy.com/instant-harmonica-play-the-groovy-valens-la-bamba-now/,True,20,390,4,10,Beginner Level,0.7333333333333333,2016-02-22T22:28:12Z,Musical Instruments
 806638,Blues Master - Beginner's Techniques Piano Course,https://www.udemy.com/blues-master-basic-techniques-piano-course/,False,0,2618,41,16,All Levels,1.5,2016-03-29T00:12:41Z,Musical Instruments
-467408,How to play Djembe, Drums & Rhythm. Level 2,https://www.udemy.com/how-to-play-djembe-drums-rhythm-level-2/,True,40,390,14,36,Intermediate Level,2.0,2015-07-23T18:48:24Z,Musical Instruments
+467408,"How to play Djembe, Drums & Rhythm. Level 2",https://www.udemy.com/how-to-play-djembe-drums-rhythm-level-2/,True,40,390,14,36,Intermediate Level,2.0,2015-07-23T18:48:24Z,Musical Instruments
 567558,Instant Harmonica - play Amazing Grace with grace and ease!,https://www.udemy.com/instant-harmonica-play-amazing-grace-with-grace-and-ease/,True,40,496,6,14,Beginner Level,1.0,2015-08-01T00:00:56Z,Musical Instruments
 854696,Instant Harmonica - play Amazing Grace + Ode to Joy now!,https://www.udemy.com/instant-harmonica-play-amazing-grace-ode-to-joy-now/,True,40,341,7,23,All Levels,1.5,2016-06-17T07:57:27Z,Musical Instruments
 1182624,Play Thousands of Songs On The Guitar | Cheater Chords,https://www.udemy.com/how-to-play-any-song-on-the-guitar-secret-chords/,True,100,97,5,12,Beginner Level,1.0,2017-04-19T16:26:09Z,Musical Instruments
@@ -705,12 +706,12 @@
 19421,Free Beginner Electric Guitar Lessons,https://www.udemy.com/beginner-electric-guitar-lessons/,False,0,101154,1042,95,Beginner Level,4.5,2012-06-15T17:00:33Z,Musical Instruments
 897162,101 Awesome Rockabilly Guitar Licks,https://www.udemy.com/101-awesome-rockabilly-guitar-licks/,True,40,407,64,33,Intermediate Level,2.5,2016-08-10T20:58:18Z,Musical Instruments
 955914,A beginner`s guide to fingerpicking and strumming guitar',https://www.udemy.com/guitar-domination-fingerpicking-strumming-beginners/,False,0,3481,29,20,Beginner Level,2.0,2016-09-13T21:51:59Z,Musical Instruments
-1158690,Instant Harmonica - Basic 12 Bar Blues course, easy and fun!,https://www.udemy.com/instant-harmonica-basic-12-bar-blues-course-easy-and-fun/,True,40,124,8,14,Beginner Level,1.0,2017-03-29T00:36:48Z,Musical Instruments
+1158690,"Instant Harmonica - Basic 12 Bar Blues course, easy and fun!",https://www.udemy.com/instant-harmonica-basic-12-bar-blues-course-easy-and-fun/,True,40,124,8,14,Beginner Level,1.0,2017-03-29T00:36:48Z,Musical Instruments
 551170,Your First Course on Piano,https://www.udemy.com/introduction-to-piano-and-music/,True,70,2002,34,33,Beginner Level,4.0,2015-07-16T17:07:49Z,Musical Instruments
 198690,Acoustic Guitar Basics,https://www.udemy.com/acoustic-guitar-basics/,False,0,14495,224,21,Beginner Level,2.0,2014-08-07T20:32:27Z,Musical Instruments
 657518,Cracking the Violin Code!,https://www.udemy.com/learnviolin/,True,120,746,82,40,All Levels,5.5,2015-11-17T21:30:46Z,Musical Instruments
 708696,Instant Bodhran - part one; learn the basics of drumming now,https://www.udemy.com/instant-bodhran-learn-irish-drum-for-fun-and-in-sessions/,True,30,920,31,9,Beginner Level,1.0,2016-01-12T20:59:18Z,Musical Instruments
-1007396,Play The Piano By Ear | Master Class, Learn By Doing,https://www.udemy.com/playing-piano-by-ear-master-course-learn-by-doing/,True,175,362,38,27,All Levels,2.5,2016-11-12T15:05:19Z,Musical Instruments
+1007396,"Play The Piano By Ear | Master Class, Learn By Doing",https://www.udemy.com/playing-piano-by-ear-master-course-learn-by-doing/,True,175,362,38,27,All Levels,2.5,2016-11-12T15:05:19Z,Musical Instruments
 505126,Discover Classical Guitar Level 2   ,https://www.udemy.com/discover-classical-guitar-level-2/,True,75,927,35,123,Intermediate Level,11.5,2015-09-01T17:47:10Z,Musical Instruments
 574428,Fingerpicking Classics - Great songs played fingerstyle!,https://www.udemy.com/fingerpicking-learn-fingerstyle-guitar-songs/,True,20,953,11,13,All Levels,2.0,2015-08-07T22:08:40Z,Musical Instruments
 602450,6 Must Know Tricks to Successful Solos,https://www.udemy.com/6-secrets-to-successful-solos/,True,35,469,38,30,All Levels,4.0,2015-09-28T22:00:17Z,Musical Instruments
@@ -741,14 +742,14 @@
 663810,Piano Runs & Fills #4: C6 Rolling Waves & Waterfall Runs,https://www.udemy.com/piano-runs-fills-4-c6-rolling-waves-waterfall-runs-songs-ending/,True,70,834,3,35,All Levels,1.0,2015-11-10T20:59:52Z,Musical Instruments
 475914,Chugging - it don't mean a thing if it ain't got that swing!,https://www.udemy.com/getchugging/,True,200,382,21,25,All Levels,2.5,2015-04-20T18:28:10Z,Musical Instruments
 831294,Make Your Own Ukulele,https://www.udemy.com/make-ukulele/,True,85,452,5,23,All Levels,4.5,2016-08-29T18:53:27Z,Musical Instruments
-364716,Beginner Violin 101: Care, Maintenance, and the Right Gear,https://www.udemy.com/beginner-violin-101-care-maintenance-and-the-right-gear/,False,0,5543,107,29,All Levels,4.0,2015-03-03T00:09:19Z,Musical Instruments
+364716,"Beginner Violin 101: Care, Maintenance, and the Right Gear",https://www.udemy.com/beginner-violin-101-care-maintenance-and-the-right-gear/,False,0,5543,107,29,All Levels,4.0,2015-03-03T00:09:19Z,Musical Instruments
 1105904,Learn How To Play 25 Classic Hip Hop Songs,https://www.udemy.com/learn-how-to-play-25-classic-hip-hop-songs/,True,25,153,9,27,All Levels,2.5,2017-02-13T23:03:20Z,Musical Instruments
 242382,Learn Beethoven's Fur Elise on Piano,https://www.udemy.com/furelise/,True,20,1582,11,6,All Levels,0.48333333333333334,2014-06-13T00:34:26Z,Musical Instruments
 783778,Play Violin and Fiddle for beginners - it's fun  - Course 1,https://www.udemy.com/play-violin-and-fiddle-for-beginners-its-fun-course-1/,True,20,560,8,9,Beginner Level,1.0,2016-03-18T00:49:32Z,Musical Instruments
 773016,Piano With Willie Building Technique with Scales Vol. 1,https://www.udemy.com/piano-with-willie-technique-builder-vol-1/,True,40,111,15,12,All Levels,1.5,2016-04-13T06:26:47Z,Musical Instruments
 672894,Christmas Piano Songs For The Very Beginner Vol. I,https://www.udemy.com/christmas-piano-songs-for-the-very-beginner-vol-i/,True,40,1060,3,15,Beginner Level,1.5,2015-11-22T23:56:07Z,Musical Instruments
 1132694,Introduction to Gypsy Jazz Guitar,https://www.udemy.com/gypsy-jazz-guitar-lessons/,True,95,452,10,18,All Levels,2.5,2017-05-14T14:30:46Z,Musical Instruments
-311530,Learn How to Play Blues, Rock, & Boogie Woogie Piano Today,https://www.udemy.com/learn-how-to-play-blues-rock-boogie-woogie-piano-today/,True,45,2346,11,14,All Levels,0.65,2014-10-08T22:07:46Z,Musical Instruments
+311530,"Learn How to Play Blues, Rock, & Boogie Woogie Piano Today",https://www.udemy.com/learn-how-to-play-blues-rock-boogie-woogie-piano-today/,True,45,2346,11,14,All Levels,0.65,2014-10-08T22:07:46Z,Musical Instruments
 1236562,The Piano Chord Ladder | Learn to Play Thousands of Songs,https://www.udemy.com/the-piano-chord-ladder-learn-to-play-thousands-of-songs/,True,100,103,2,11,All Levels,1.0,2017-05-31T20:30:26Z,Musical Instruments
 1000966,Play Piano 5: Improvise on Misty Eb Key Runs & 2-5 Chords,https://www.udemy.com/play-piano-5-improvise-on-misty-eb-key-runs-2-5-chords/,True,50,833,6,70,Expert Level,1.5,2016-11-03T16:46:58Z,Musical Instruments
 782430,Playing Piano: Scales and Arpeggios Vol.I : Major keys,https://www.udemy.com/playing-piano-major-scales-and-arpeggios-voli/,True,50,2358,3,26,Beginner Level,1.0,2016-03-31T18:31:08Z,Musical Instruments
@@ -756,9 +757,9 @@
 138228,Get great playing HARMONICA - a fun new leisure time hobby !,https://www.udemy.com/benhewlettharmonicatuitionb1/,True,35,2543,44,17,All Levels,2.0,2014-02-12T17:15:13Z,Musical Instruments
 1034414,Fingerstyle Guitar Mastery: 3 Techniques You Need To Know,https://www.udemy.com/3-fingerstyle-guitar-techniques-you-need-to-know/,False,0,3042,40,13,All Levels,0.5666666666666667,2016-12-13T16:13:47Z,Musical Instruments
 996888,Play Piano 3: Improvise Chords to Enchanted Evening by Ear,https://www.udemy.com/play-piano-3-improvise-chords-to-enchanted-evening-by-ear/,True,50,809,5,57,All Levels,1.5,2016-10-30T16:33:51Z,Musical Instruments
-1191750,Jazz Guitar Tips, Tricks and Licks,https://www.udemy.com/jazz-guitar-tips-tricks-and-licks/,False,0,9351,331,21,Intermediate Level,2.0,2017-05-01T02:32:12Z,Musical Instruments
+1191750,"Jazz Guitar Tips, Tricks and Licks",https://www.udemy.com/jazz-guitar-tips-tricks-and-licks/,False,0,9351,331,21,Intermediate Level,2.0,2017-05-01T02:32:12Z,Musical Instruments
 793234,Piano From Zero To Pro - Beginner Essentials To The Piano,https://www.udemy.com/piano-from-zero-to-pro-beginner-essentials-to-play-by-ear-amosdoll/,True,70,811,129,52,Beginner Level,3.5,2016-03-16T15:28:29Z,Musical Instruments
-372416,Piano: Learn 48 chords in 1 hour,  and always remember how,https://www.udemy.com/piano-hack-28-chords-in-under-an-hour/,True,120,1424,71,16,Beginner Level,1.5,2014-12-28T22:17:41Z,Musical Instruments
+372416,"Piano: Learn 48 chords in 1 hour,  and always remember how",https://www.udemy.com/piano-hack-28-chords-in-under-an-hour/,True,120,1424,71,16,Beginner Level,1.5,2014-12-28T22:17:41Z,Musical Instruments
 665278,Walking Bass - Quick Start Guide,https://www.udemy.com/walking-bass-quick-start-guide/,True,50,193,20,31,All Levels,1.0,2015-12-10T22:33:58Z,Musical Instruments
 1170198,Beginner Guitar Lessons: Learn To Play Guitar Today (WAVE 1),https://www.udemy.com/beginner-guitar-lessons-learn-to-play-guitar-today/,True,45,65,18,56,Beginner Level,10.0,2017-05-01T19:01:49Z,Musical Instruments
 1002272,Blues Bass - Quick Start Guide,https://www.udemy.com/blues-bass-quick-start-guide/,True,50,59,8,29,All Levels,1.5,2016-11-24T22:40:05Z,Musical Instruments
@@ -770,7 +771,7 @@
 660690,Piano Building Blocks: Learn the 24 Most Common Chords,https://www.udemy.com/pianobuildingblocks/,True,50,492,10,17,Beginner Level,1.5,2016-03-07T20:53:38Z,Musical Instruments
 347104,Learn to Play the Oboe: Beginner to Pro in Under Four Hours,https://www.udemy.com/oboe-a-beginners-guide/,True,50,500,39,74,Beginner Level,5.0,2015-01-01T01:25:25Z,Musical Instruments
 638204,Playing Piano By Ear: Complete Guide for Aspiring Musicians,https://www.udemy.com/learn-piano-by-ear/,True,150,346,26,59,All Levels,4.5,2015-11-20T23:32:08Z,Musical Instruments
-519694,Discover the fun of Spoon playing, a beginners course,https://www.udemy.com/learn-to-play-spoons/,True,65,353,13,25,All Levels,1.0,2015-06-25T22:54:11Z,Musical Instruments
+519694,"Discover the fun of Spoon playing, a beginners course",https://www.udemy.com/learn-to-play-spoons/,True,65,353,13,25,All Levels,1.0,2015-06-25T22:54:11Z,Musical Instruments
 647336,Country Guitar Fundamentals,https://www.udemy.com/country-guitar-fundamentals/,True,50,1174,39,23,Intermediate Level,1.5,2016-12-23T22:52:59Z,Musical Instruments
 464844,Discover Classical Guitar Level 1,https://www.udemy.com/discover-classical-guitar-level-1/,True,25,1513,38,19,Beginner Level,1.5,2015-06-21T20:31:22Z,Musical Instruments
 824044,PI-101 Top 10 Classical Piano Pieces for Beginners,https://www.udemy.com/pi-101-piano/,False,0,6292,183,38,Beginner Level,1.0,2016-05-30T21:02:20Z,Musical Instruments
@@ -792,7 +793,7 @@
 484670,Guitar Super System Level 1,https://www.udemy.com/guitar-super-system-level-1-unlock-your-potential/,True,50,10869,2257,104,Intermediate Level,5.0,2015-04-29T23:49:34Z,Musical Instruments
 967380,How to play Piano - Go from a Beginner/Intermediate to a Pro,https://www.udemy.com/how-to-play-piano-go-from-a-beginnerintermediate-to-a-pro/,True,200,5316,159,291,All Levels,31.0,2016-10-16T18:25:57Z,Musical Instruments
 681692,Guitar Super System Level 2,https://www.udemy.com/guitarsupersystemlevel2/,True,50,4192,128,34,Expert Level,1.5,2015-11-30T21:49:37Z,Musical Instruments
-200598,LEARN HARMONICA, amaze your friends and have fun - it's easy,https://www.udemy.com/benhewlettharmonicatuitionultimate-harmonica-course/,True,200,8857,718,131,All Levels,15.5,2014-04-27T16:25:44Z,Musical Instruments
+200598,"LEARN HARMONICA, amaze your friends and have fun - it's easy",https://www.udemy.com/benhewlettharmonicatuitionultimate-harmonica-course/,True,200,8857,718,131,All Levels,15.5,2014-04-27T16:25:44Z,Musical Instruments
 953152,The Complete Piano & Music Theory Beginners Course,https://www.udemy.com/piano-lessons-music-theory-beginners-course/,True,50,10435,665,23,All Levels,1.5,2016-09-15T22:49:21Z,Musical Instruments
 1132342,Ultimate Beginner Guitar Masterclass,https://www.udemy.com/beginner-guitar-masterclass/,True,200,8113,79,124,Beginner Level,11.5,2017-05-15T23:04:11Z,Musical Instruments
 194692,Quicklessons Piano Course - Learn to Play Piano by Ear!,https://www.udemy.com/quicklessons/,True,200,7178,260,144,All Levels,8.5,2014-04-12T17:29:32Z,Musical Instruments
@@ -839,11 +840,11 @@
 1255114,Instant Harmonica - Learning the Basic 12 Bar Blues Bassline,https://www.udemy.com/instant-harmonica-learning-the-basic-12-bar-blues-bassline/,True,40,54,6,10,All Levels,1.0,2017-06-16T22:01:09Z,Musical Instruments
 1120410,#5  Piano Hand Coordination:  Piano Runs in 2 Beats Eb Key,https://www.udemy.com/learn-piano-technique-5-piano-runs-in-2-beats-in-eb-key/,True,75,940,3,32,Intermediate Level,0.6166666666666667,2017-02-21T23:44:49Z,Musical Instruments
 1048188,Modern Country Guitar: Technique Booster,https://www.udemy.com/modern-country-guitar/,True,30,1152,16,42,Intermediate Level,2.5,2017-01-26T22:37:15Z,Musical Instruments
-970880,Blues Guitar Lessons for Beginners: Chords, Rhythm and Lead,https://www.udemy.com/blues-guitar-lessons-for-beginners-chords-rhythm-and-lead/,True,95,2558,19,16,Beginner Level,3.0,2016-10-19T03:26:29Z,Musical Instruments
+970880,"Blues Guitar Lessons for Beginners: Chords, Rhythm and Lead",https://www.udemy.com/blues-guitar-lessons-for-beginners-chords-rhythm-and-lead/,True,95,2558,19,16,Beginner Level,3.0,2016-10-19T03:26:29Z,Musical Instruments
 1116700,#4 Piano Hand Coordination: Fun Piano Runs in 2 Beats C Key,https://www.udemy.com/learn-piano-technique-4-piano-run-in-2-beats-in-c-key-song/,True,75,850,3,43,Intermediate Level,1.0,2017-02-21T23:48:18Z,Musical Instruments
 687248,3 step formula for playing guitar by ear,https://www.udemy.com/3-step-formula-for-playing-guitar-by-ear/,True,25,3937,54,20,Beginner Level,1.5,2015-12-03T21:26:09Z,Musical Instruments
-1052180,How to play 'Electric Guitar",https://www.udemy.com/electric-guitar-beginners-method/,true,50,1105,5,20,Beginner Level,2 hours,2016-12-29T00:24:06Z
-42038,Learn Piano Today: How to Play Piano Course in Quick Lessons",https://www.udemy.com/learnpianotoday/,True,100,6271,68,75,All Levels,5.0,2013-06-27T21:55:17Z,Musical Instruments
+1052180,"How to play 'Electric Guitar",https://www.udemy.com/electric-guitar-beginners-method/,true,50,1105,5,20,Beginner Level,2 hours,2016-12-29T00:24:06Z
+42038,Learn Piano Today: How to Play Piano Course in Quick Lessons"",https://www.udemy.com/learnpianotoday/,True,100,6271,68,75,All Levels,5.0,2013-06-27T21:55:17Z,Musical Instruments
 501412,Play Piano by Ear Today! SuperCourse,https://www.udemy.com/play-piano-by-ear-today-supercourse/,True,60,4557,21,77,All Levels,5.5,2016-01-05T22:39:04Z,Musical Instruments
 1032864,Learn to Read & Write Music to play Piano & more instruments,https://www.udemy.com/the-complete-guide-to-how-to-read-write-music/,True,115,5292,38,85,All Levels,10.5,2016-12-27T19:52:54Z,Musical Instruments
 574974,The Complete Piano Course - Master The Piano,https://www.udemy.com/the-complete-piano-course/,True,95,4982,276,240,All Levels,23.0,2015-08-20T21:25:34Z,Musical Instruments
@@ -907,10 +908,10 @@
 1223570,Learn How To Play 25 Classic Hip Hop Songs Ch.2,https://www.udemy.com/learn-how-to-play-25-hip-hop-classic-songs-ch2/,True,25,7,1,27,All Levels,3.5,2017-05-23T23:51:34Z,Musical Instruments
 139792,Learn to play tunes by ear on harmonica - no written music,https://www.udemy.com/benhewlettharmonicatuitionint4/,True,35,73,3,15,Intermediate Level,2.0,2014-03-23T15:23:01Z,Musical Instruments
 482334,Fingerpicking for Guitar,https://www.udemy.com/fingerpicking-for-guitar/,True,20,35,4,26,All Levels,3.0,2016-09-14T16:38:02Z,Musical Instruments
-602812,Music Theory, Guitar and Ear Training,https://www.udemy.com/holistic-guitar-ear-essentials/,True,60,30,3,39,Beginner Level,3.0,2015-11-22T18:35:43Z,Musical Instruments
-1036400,Piano Unbound. Piano learning method, a course for beginners,https://www.udemy.com/piano-unbound/,True,195,32,1,39,All Levels,2.5,2017-04-25T14:57:21Z,Musical Instruments
+602812,"Music Theory, Guitar and Ear Training",https://www.udemy.com/holistic-guitar-ear-essentials/,True,60,30,3,39,Beginner Level,3.0,2015-11-22T18:35:43Z,Musical Instruments
+1036400,"Piano Unbound. Piano learning method, a course for beginners",https://www.udemy.com/piano-unbound/,True,195,32,1,39,All Levels,2.5,2017-04-25T14:57:21Z,Musical Instruments
 866528,Advanced Trombone Studies - Learn to Master the Trombone!,https://www.udemy.com/advanced-trombone/,True,50,39,2,136,All Levels,8.0,2016-07-05T23:21:53Z,Musical Instruments
-471352,Euphonium Solos: Learn to Perform Three Fun, Unique Pieces!,https://www.udemy.com/intermediate-euphonium-solos/,True,50,90,2,61,All Levels,2.5,2015-04-16T16:55:20Z,Musical Instruments
+471352,"Euphonium Solos: Learn to Perform Three Fun, Unique Pieces!",https://www.udemy.com/intermediate-euphonium-solos/,True,50,90,2,61,All Levels,2.5,2015-04-16T16:55:20Z,Musical Instruments
 744080,Piano With Willie: Tritones & Phat Chords,https://www.udemy.com/piano-with-willie-tritones-phat-chords/,True,40,37,3,19,Intermediate Level,2.0,2016-04-13T06:52:29Z,Musical Instruments
 620372,Piano for Kids: Developing Your Child's Creative Abilities,https://www.udemy.com/piano-for-kids-developing-your-childs-creative-abilities/,True,65,42,2,37,Beginner Level,4.0,2015-10-24T00:09:09Z,Musical Instruments
 214418,Piano Lessons For The Hip Hop Fan,https://www.udemy.com/piano-lessons-for-the-hip-hop-fan/,True,20,276,2,62,Intermediate Level,5.5,2014-05-12T13:38:56Z,Musical Instruments
@@ -948,14 +949,14 @@
 219756,Aprende a tocar flauta transversal sin complicaciones,https://www.udemy.com/aprende-a-tocar-flauta-transversal-curso-en-video/,True,50,6,2,23,All Levels,3.0,2014-05-19T16:51:41Z,Musical Instruments
 1243162,Aprende a tocar las escalas en el acordeón de botones.,https://www.udemy.com/las-escalas-en-el-acordeon-de-botones/,True,20,2,0,21,Beginner Level,1.0,2017-06-17T23:48:41Z,Musical Instruments
 1174974,Curso de Violão Prático,https://www.udemy.com/harmonia-tonal/,True,70,5,0,10,Beginner Level,1.5,2017-04-12T08:28:40Z,Musical Instruments
-214828,Aprende a tocar percusiones: congas, bongós, maracas y más,https://www.udemy.com/aprende-a-tocar-percusiones-congas-bongos-maracas-y-mas/,True,50,14,2,71,All Levels,3.5,2014-05-16T17:07:11Z,Musical Instruments
+214828,"Aprende a tocar percusiones: congas, bongós, maracas y más",https://www.udemy.com/aprende-a-tocar-percusiones-congas-bongos-maracas-y-mas/,True,50,14,2,71,All Levels,3.5,2014-05-16T17:07:11Z,Musical Instruments
 430994,Gitarre spielen - mein schönstes Hobby,https://www.udemy.com/gitarre-spielen-mein-schonstes-hobby/,True,20,11,2,183,Beginner Level,2.0,2015-06-09T17:18:29Z,Musical Instruments
 207408,Aprende a tocar la guitarra acústica como un profesional,https://www.udemy.com/aprende-a-tocar-la-guitarra-acustica-como-un-profesional/,True,50,11,0,27,All Levels,3.0,2014-05-05T22:03:41Z,Musical Instruments
 445118,Guitar Lesson - Five Steps to Learn Barre Chords,https://www.udemy.com/five-steps-to-learn-barre-chords/,True,35,57,9,9,All Levels,0.55,2015-03-15T18:06:30Z,Musical Instruments
-146852,Easy Piano Basics™ - Learn Piano, No Prior Experience Needed,https://www.udemy.com/easy-piano-basics-with-willie/,True,20,377,8,14,All Levels,1.5,2014-01-30T16:29:05Z,Musical Instruments
+146852,"Easy Piano Basics™ - Learn Piano, No Prior Experience Needed",https://www.udemy.com/easy-piano-basics-with-willie/,True,20,377,8,14,All Levels,1.5,2014-01-30T16:29:05Z,Musical Instruments
 147754,Guitar Technique Mastery: The Ultimate Chop Building Workout,https://www.udemy.com/the-ultimate-chop-building-workout-for-the-blues-guitarist/,True,20,273,4,6,All Levels,1.5,2014-01-16T17:22:04Z,Musical Instruments
 131512,Inside Drum Technique,https://www.udemy.com/insidedrumtechnique/,True,50,406,10,25,All Levels,2.0,2013-12-13T10:01:14Z,Musical Instruments
-140168,Learn to Play Tarrega, Bach, and Sor on Classical Guitar,https://www.udemy.com/guitar-pieces/,True,195,556,11,27,Intermediate Level,4.0,2014-01-27T23:26:57Z,Musical Instruments
+140168,"Learn to Play Tarrega, Bach, and Sor on Classical Guitar",https://www.udemy.com/guitar-pieces/,True,195,556,11,27,Intermediate Level,4.0,2014-01-27T23:26:57Z,Musical Instruments
 510098,Create Beautiful Music On The Piano Like a Pro In Minutes,https://www.udemy.com/create-beautiful-music-on-the-piano-like-a-pro-in-minutes/,True,95,115,17,17,All Levels,1.5,2015-08-10T23:51:56Z,Musical Instruments
 561774,Instant Harmonica - play the great Irish tune Molly Malone!,https://www.udemy.com/instant-harmonica-play-the-irish-tune-molly-molone-today/,True,20,420,2,13,Beginner Level,1.0,2015-07-23T20:14:45Z,Musical Instruments
 1102396,Instant Harmonica - play 'Can't Help Falling in Love' now!,https://www.udemy.com/instant-harmonica-play-cant-help-falling-in-love-now/,True,40,32,3,11,All Levels,1.0,2017-02-07T03:15:40Z,Musical Instruments
@@ -975,9 +976,9 @@
 773144,Piano With Willie Building Technique with Scales Vol. 2,https://www.udemy.com/piano-with-willie-technique-builder-vol-2/,True,40,61,3,9,All Levels,1.5,2016-04-13T06:29:50Z,Musical Instruments
 324226,Master Flute Playing: Intermediate Instruction Made Simple!,https://www.udemy.com/intermediateflute/,True,50,288,15,100,Intermediate Level,6.0,2014-10-29T19:42:29Z,Musical Instruments
 888668,How to Sing and Play the Guitar (at the same time),https://www.udemy.com/how-to-sing-and-play-the-guitar-at-the-same-time/,True,20,78,8,24,Beginner Level,1.5,2016-07-18T19:42:57Z,Musical Instruments
-301686,Super Beginner Guitar - start right, start awesome,https://www.udemy.com/super-beginner-guitar-start-right-start-awesome/,True,30,594,3,33,Beginner Level,2.0,2014-11-26T03:57:18Z,Musical Instruments
-151027,Introduction to Guitar 'A Course for Beginners",https://www.udemy.com/introduction-to-guitar/,true,25,163,11,56,Beginner Level,2.5 hours,2014-10-30T15:59:39Z
-650804,Guitar  Master Class Learning How to Play Guitar from A to Z",https://www.udemy.com/learning-how-to-play-guitar/,True,40,489,5,35,All Levels,4.0,2015-10-26T22:01:15Z,Musical Instruments
+301686,"Super Beginner Guitar - start right, start awesome",https://www.udemy.com/super-beginner-guitar-start-right-start-awesome/,True,30,594,3,33,Beginner Level,2.0,2014-11-26T03:57:18Z,Musical Instruments
+151027,"Introduction to Guitar 'A Course for Beginners",https://www.udemy.com/introduction-to-guitar/,true,25,163,11,56,Beginner Level,2.5 hours,2014-10-30T15:59:39Z
+650804,Guitar  Master Class Learning How to Play Guitar from A to Z"",https://www.udemy.com/learning-how-to-play-guitar/,True,40,489,5,35,All Levels,4.0,2015-10-26T22:01:15Z,Musical Instruments
 269830,Rhythm to Rock Drum Lesson 5,https://www.udemy.com/rhythm-to-rock-drum-lesson-5/,True,20,13,3,9,Beginner Level,1.0,2014-08-18T22:26:24Z,Musical Instruments
 315812,Gibson's Learn & Master Guitar,https://www.udemy.com/learnandmasterguitar/,True,50,103,33,309,All Levels,38.0,2014-10-30T14:39:14Z,Musical Instruments
 373636,Master the Trombone: Intermediate Instruction Made Simple!,https://www.udemy.com/beginning-trombone/,True,50,231,7,110,All Levels,9.0,2015-03-04T22:36:26Z,Musical Instruments
@@ -994,8 +995,8 @@
 725566,Curso de Violão Popular,https://www.udemy.com/curso-de-violao/,True,25,287,42,27,Beginner Level,6.0,2016-01-27T23:12:19Z,Musical Instruments
 829616,Aprendiendo Piano: Ejercicios de calentamiento,https://www.udemy.com/aprendiendo-piano-ejercicios-de-calentamiento/,False,0,1876,109,11,Beginner Level,0.55,2016-04-27T17:58:22Z,Musical Instruments
 888852,Aprendiendo piano: Lectura de piezas clásicas Vol.II,https://www.udemy.com/aprendiendo-piano-lectura-de-piezas-clasicas-volii/,True,40,113,4,18,Beginner Level,1.5,2016-06-29T01:27:47Z,Musical Instruments
-286898,Aprende a tocar el Acordeón 'de oído y con técnica",https://www.udemy.com/aprende-a-tocar-el-acordeon-de-oido-y-con-tecnica/,true,25,93,21,34,Beginner Level,4 hours,2014-09-16T19:51:45Z
-263432,Aprende los Secretos de la Armónica con HARP&SOUL",https://www.udemy.com/aprende-los-secretos-de-la-armonica-con-harp-and-soul/,True,75,158,17,59,All Levels,2.5,2014-07-28T13:55:43Z,Musical Instruments
+286898,"Aprende a tocar el Acordeón 'de oído y con técnica",https://www.udemy.com/aprende-a-tocar-el-acordeon-de-oido-y-con-tecnica/,true,25,93,21,34,Beginner Level,4 hours,2014-09-16T19:51:45Z
+263432,Aprende los Secretos de la Armónica con HARP&SOUL"",https://www.udemy.com/aprende-los-secretos-de-la-armonica-con-harp-and-soul/,True,75,158,17,59,All Levels,2.5,2014-07-28T13:55:43Z,Musical Instruments
 375830,Guitarra Desde Cero - PARTE 1,https://www.udemy.com/guitarra-desde-cero-parte-1-curso-de-guitarra-principiantes/,True,35,480,12,123,Beginner Level,7.0,2014-12-27T21:54:35Z,Musical Instruments
 207440,Super-Curso de Guitarra Práctico Para Principiantes,https://www.udemy.com/super-curso-de-guitarra-practico-para-principiantes/,True,85,228,26,215,Beginner Level,10.5,2014-06-30T12:29:38Z,Musical Instruments
 1042382,Explosão Pentatônica,https://www.udemy.com/explosao-pentatonica/,True,55,42,5,19,All Levels,1.5,2016-12-22T14:13:13Z,Musical Instruments
@@ -1008,7 +1009,7 @@
 1141614,The Fun and Effective Piano Course,https://www.udemy.com/the-serious-piano-course/,True,30,24,2,38,All Levels,3.5,2017-04-24T16:09:35Z,Musical Instruments
 605074,Advanced Flute Studies - Learn to Master the Flute!​,https://www.udemy.com/advanced-flute/,True,50,205,4,95,All Levels,5.0,2015-09-07T23:28:56Z,Musical Instruments
 749616,Alternate Picking Speed & Accuracy,https://www.udemy.com/alternate-picking-speed-accuracy/,True,20,19,4,83,All Levels,3.5,2016-05-12T19:17:21Z,Musical Instruments
-470482,Master the Euphonium with Simple, Intermediate Instruction!,https://www.udemy.com/intermediate-euphonium/,True,50,120,6,106,Intermediate Level,8.0,2015-04-16T16:29:41Z,Musical Instruments
+470482,"Master the Euphonium with Simple, Intermediate Instruction!",https://www.udemy.com/intermediate-euphonium/,True,50,120,6,106,Intermediate Level,8.0,2015-04-16T16:29:41Z,Musical Instruments
 344348,Master the Clarinet: Intermediate Instruction Made Simple!,https://www.udemy.com/clarinet-beyond-beginner/,True,50,232,11,97,All Levels,7.0,2015-01-01T01:24:20Z,Musical Instruments
 373556,Advanced Clarinet Studies - Learn to Master the Clarinet!,https://www.udemy.com/clarinet-etudes/,True,50,148,3,77,All Levels,4.5,2015-01-01T01:23:28Z,Musical Instruments
 214794,Aprende a tocar ritmo pop en el piano y teclado,https://www.udemy.com/aprende-a-tocar-ritmo-pop-en-el-piano-y-teclado/,True,20,10,1,9,All Levels,0.7166666666666667,2014-05-16T17:03:56Z,Musical Instruments
@@ -1023,14 +1024,14 @@
 1048182,Coach Guitar - Apprendre la GUITARE facile avec des COULEURS,https://www.udemy.com/coach-guitar-apprendre-la-guitare-facile-avec-des-couleurs/,True,50,25,1,321,All Levels,3.5,2016-12-27T14:51:32Z,Musical Instruments
 758216,Sistema Completo De Guitarra Rítmica Para Principiantes,https://www.udemy.com/sistema-completo-de-guitarra-ritmica-para-principiantes/,True,55,21,3,32,Beginner Level,6.0,2016-02-27T23:31:36Z,Musical Instruments
 1144780,Curso de batería online de Patricio Iglesias (Santa Sabina),https://www.udemy.com/cursodebateriaonlinedepatricioiglesias/,True,35,5,1,17,Intermediate Level,4.0,2017-03-28T18:15:08Z,Musical Instruments
-628798,Learn Piano with Beyer, 15 Minutes Challenge,https://www.udemy.com/playpianowithbeyer/,True,65,418,2,30,All Levels,3.0,2016-07-21T23:18:55Z,Musical Instruments
+628798,"Learn Piano with Beyer, 15 Minutes Challenge",https://www.udemy.com/playpianowithbeyer/,True,65,418,2,30,All Levels,3.0,2016-07-21T23:18:55Z,Musical Instruments
 398224,Classical Guitar Master Class: 'Alman  ",https://www.udemy.com/classical-guitar-master-class-alman/,True,195,113,2,34,Intermediate Level,2.0,2015-04-21T23:43:30Z,Musical Instruments
 147174,Blues Accelerator - 21 Days to Blues Guitar Mastery,https://www.udemy.com/blues-accelerator-21-days-to-blues-mastery/,True,50,78,6,45,Beginner Level,7.0,2014-01-16T17:21:49Z,Musical Instruments
 799912,Alto Saxophone Lessons For Beginners,https://www.udemy.com/the-music-coach-online-alto-saxophone-lesson-program/,True,95,51,7,42,Beginner Level,3.0,2016-03-23T15:33:31Z,Musical Instruments
 655958,Instant Harmonica - Christmas; play Jingle Bells part 2 now!,https://www.udemy.com/instant-harmonica-christmas-play-jingle-bells-part-2-now/,True,20,58,1,10,All Levels,0.7333333333333333,2015-12-17T18:29:20Z,Musical Instruments
 744034,Piano With Willie: Jazz & Gospel Exercises,https://www.udemy.com/piano-with-willie-jazz-gospel-exercises/,True,40,56,3,28,Intermediate Level,2.0,2016-04-13T06:57:11Z,Musical Instruments
 139790,Bending the blue notes to give you killer sound on harmonica,https://www.udemy.com/benhewlettharmonicatuitionint2/,True,35,162,3,14,Intermediate Level,2.0,2014-03-02T13:14:08Z,Musical Instruments
-288854,Beginner's Guitar: Tuning, Strumming, and Chords!,https://www.udemy.com/beginners-guitar-tuning-strumming-and-chords/,False,0,2577,30,6,Beginner Level,0.6166666666666667,2015-07-03T19:07:11Z,Musical Instruments
+288854,"Beginner's Guitar: Tuning, Strumming, and Chords!",https://www.udemy.com/beginners-guitar-tuning-strumming-and-chords/,False,0,2577,30,6,Beginner Level,0.6166666666666667,2015-07-03T19:07:11Z,Musical Instruments
 588264,Instant Harmonica - play The Lion Sleeps Tonight - today!,https://www.udemy.com/instant-harmonica-play-the-lion-sleeps-tonight-today/,True,20,62,1,11,Beginner Level,1.0,2015-08-21T21:37:53Z,Musical Instruments
 773156,Piano With Willie Building Technique with Scales Vol. 3,https://www.udemy.com/piano-with-willie-technique-builder-vol-3/,True,40,42,1,11,All Levels,1.5,2016-04-13T06:38:21Z,Musical Instruments
 931152,Instant Bodhran - part two; learning further drumming skills,https://www.udemy.com/instant-bodhran-part-two-learning-further-drumming-skills/,True,40,28,1,10,Beginner Level,1.0,2016-08-18T22:04:40Z,Musical Instruments
@@ -1055,7 +1056,7 @@
 459207,Master the Bassoon - Intermediate Instruction Made Simple!,https://www.udemy.com/intermediate-bassoon/,True,50,177,3,102,All Levels,7.5,2015-04-15T17:12:37Z,Musical Instruments
 814474,Oboe Pro Series - You're going to love practicing the Oboe,https://www.udemy.com/oboe-pro-series/,True,50,61,5,36,All Levels,7.0,2016-04-08T23:26:22Z,Musical Instruments
 1104496,Instant Harmonica - play this classic GAME OF THRONES theme!,https://www.udemy.com/instant-harmonica-play-this-classic-game-of-thrones-theme/,True,40,21,2,13,Beginner Level,1.0,2017-05-30T13:17:58Z,Musical Instruments
-188064,Trumpet Solos: Learn how to Perform Three Fun, Unique Pieces,https://www.udemy.com/trumpet-solos/,True,50,115,6,53,Intermediate Level,2.5,2014-03-25T17:19:56Z,Musical Instruments
+188064,"Trumpet Solos: Learn how to Perform Three Fun, Unique Pieces",https://www.udemy.com/trumpet-solos/,True,50,115,6,53,Intermediate Level,2.5,2014-03-25T17:19:56Z,Musical Instruments
 578750,Learn 4 Vital things that will make your DRUM PLAYING EASIER,https://www.udemy.com/etidrumminggbc/,True,35,510,1,8,All Levels,0.6166666666666667,2015-08-13T20:35:46Z,Musical Instruments
 184088,Sax Solos: Learn how to Perform Three Fun and Unique Pieces!,https://www.udemy.com/saxophone-solos/,True,50,147,4,39,Intermediate Level,1.0,2014-03-17T22:56:41Z,Musical Instruments
 1198302,Traditional-Style Electric Blues Guitar For Beginners,https://www.udemy.com/traditional-style-electric-blues-guitar-for-beginners/,True,25,9,2,36,Beginner Level,3.0,2017-06-22T21:08:35Z,Musical Instruments
@@ -1119,7 +1120,7 @@
 1076244,Practical Guitar Theory: Level 1,https://www.udemy.com/practical-guitar-theory-level-1/,True,60,14,3,41,All Levels,1.5,2017-05-01T21:04:16Z,Musical Instruments
 1036338,Instant harmonica - enjoy playing Silent Night tonight!,https://www.udemy.com/instant-harmonica-enjoy-playing-silent-night-tonight/,True,40,16,3,12,All Levels,0.6333333333333333,2016-12-14T21:53:51Z,Musical Instruments
 266682,HARP&SOUL  |  Learn the Secrets of the Harmonica,https://www.udemy.com/harp-and-soul-learn-the-secrets-of-the-harmonica/,True,35,114,8,59,All Levels,2.0,2014-10-01T10:06:34Z,Musical Instruments
-615226,Play Leyenda, Canarios, and Bach on Classical Guitar,https://www.udemy.com/play-leyenda-canarios-and-bach-on-classical-guitar/,True,195,185,8,70,Intermediate Level,7.5,2015-11-05T23:30:42Z,Musical Instruments
+615226,"Play Leyenda, Canarios, and Bach on Classical Guitar",https://www.udemy.com/play-leyenda-canarios-and-bach-on-classical-guitar/,True,195,185,8,70,Intermediate Level,7.5,2015-11-05T23:30:42Z,Musical Instruments
 963094,Instant Harmonica - play the cool tune Dirty Old Town now!,https://www.udemy.com/instant-harmonica-play-the-cool-celtic-tune-dirty-old-town/,True,40,42,8,17,All Levels,1.5,2016-10-12T16:54:54Z,Musical Instruments
 742096,Ultimate Beginner Guitar Guide - Both Acoustic & Electric ,https://www.udemy.com/ultimate-beginner-guitar-guide/,True,45,57,9,15,Beginner Level,2.0,2016-02-16T17:19:38Z,Musical Instruments
 648492,Guitar Lessons : Rock Guitar in 1 Day!,https://www.udemy.com/rock-guitar/,True,50,17,4,37,Beginner Level,1.5,2015-12-06T22:37:13Z,Musical Instruments
@@ -1148,7 +1149,7 @@
 171598,Rhythm to Rock Drum Lessons 2,https://www.udemy.com/rhythm-to-rock-drum-lessons-2/,True,20,21,2,11,Beginner Level,1.0,2014-03-10T02:09:54Z,Musical Instruments
 854692,Instant Harmonica - play Over the Rainbow + Skye Boat now!,https://www.udemy.com/instant-harmonica-play-over-the-rainbow-skye-boat-now/,True,40,29,4,22,All Levels,1.5,2016-07-18T21:54:18Z,Musical Instruments
 805706,Bagpipe Instruction For Beginners,https://www.udemy.com/bagpipe-instruction-for-beginners/,True,30,31,4,5,Beginner Level,1.0,2016-04-24T16:32:40Z,Musical Instruments
-618586,Flute Solos: Learn how to Perform Three Fun, Unique Pieces,https://www.udemy.com/flute-solos/,True,50,156,4,62,All Levels,3.0,2015-09-22T22:02:02Z,Musical Instruments
+618586,"Flute Solos: Learn how to Perform Three Fun, Unique Pieces",https://www.udemy.com/flute-solos/,True,50,156,4,62,All Levels,3.0,2015-09-22T22:02:02Z,Musical Instruments
 205764,Rhythm to Rock Drum Lessons 3,https://www.udemy.com/rhythm-to-rock-drum-lessons-3/,True,20,12,2,12,Beginner Level,1.0,2014-07-18T02:11:57Z,Musical Instruments
 762648,Guitar Lessons - Sweep Picking Arpeggio Essentials,https://www.udemy.com/guitar-lessons-sweep-picking-arpeggio-essentials/,True,35,74,6,13,Intermediate Level,1.5,2016-02-15T16:59:22Z,Musical Instruments
 245722,Painless Piano!,https://www.udemy.com/painless-piano/,True,40,353,1,30,Beginner Level,3.5,2014-06-23T14:11:47Z,Musical Instruments
@@ -1187,9 +1188,9 @@
 818786,Drum Lessons For Beginners,https://www.udemy.com/the-music-coach-online-drum-lesson-program/,True,95,14,1,34,Beginner Level,2.5,2016-04-13T21:02:15Z,Musical Instruments
 741388,Piano With Willie: Jazz Kids - Vol 3,https://www.udemy.com/piano-with-willie-jazz-kids-vol-3/,True,40,16,1,29,Beginner Level,3.0,2016-04-13T06:01:56Z,Musical Instruments
 629704,Quick Piano Lessons - Tutorials for Drake's Greatest Hits,https://www.udemy.com/quick-piano-lessons-tutorials-for-drakes-greatest-hits/,True,35,19,1,4,All Levels,0.55,2015-10-04T21:39:58Z,Musical Instruments
-839032,Bluegrass Guitar Essentials: Webisodes 13, 14, & 15,https://www.udemy.com/bluegrass-guitar-essentials-webisodes-13-14-15/,True,30,14,1,13,Intermediate Level,1.5,2016-12-15T03:58:40Z,Musical Instruments
+839032,"Bluegrass Guitar Essentials: Webisodes 13, 14, & 15",https://www.udemy.com/bluegrass-guitar-essentials-webisodes-13-14-15/,True,30,14,1,13,Intermediate Level,1.5,2016-12-15T03:58:40Z,Musical Instruments
 23683,Guitar - Rock - Beginner with Marc Seal,https://www.udemy.com/guitar-rock-beginner-with-marc-seal/,True,20,40,1,27,All Levels,1.0,2012-08-31T22:06:29Z,Musical Instruments
-912254,Oboe Solos: Learn to Perform Three Fun, Unique Pieces!,https://www.udemy.com/oboe-solos/,True,50,41,0,43,All Levels,2.0,2016-07-28T03:10:09Z,Musical Instruments
+912254,"Oboe Solos: Learn to Perform Three Fun, Unique Pieces!",https://www.udemy.com/oboe-solos/,True,50,41,0,43,All Levels,2.0,2016-07-28T03:10:09Z,Musical Instruments
 839030,Bluegrass Guitar Essentials: Webisodes 11 & 12,https://www.udemy.com/bluegrass-guitar-essentials-webisodes-11-12/,True,30,9,1,24,All Levels,2.0,2016-10-22T00:02:49Z,Musical Instruments
 619610,Advanced Horn Studies - Learn to Master the French Horn!​,https://www.udemy.com/advanced-french-horn/,True,50,46,0,91,All Levels,7.0,2015-09-23T17:14:50Z,Musical Instruments
 106358,Learn To Play Guitar Complete Beginners Quick Start,https://www.udemy.com/learn-to-play-guitar-for-free-quick-start-guitar-course/,True,20,75,0,11,Beginner Level,1.0,2013-10-16T16:25:07Z,Musical Instruments
