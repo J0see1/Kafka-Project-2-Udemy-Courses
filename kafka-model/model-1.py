@@ -1,0 +1,1 @@
+# ini lakuin dulu aja
