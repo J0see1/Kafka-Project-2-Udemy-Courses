@@ -55,6 +55,8 @@ Three clustering models were developed to group courses based on different featu
 
 ## Workflow
 
+<img src="attachment/flow.jpg">
+
 1. **Docker Setup**  
    - The `docker-compose.yaml` file is used to start Kafka, Zookeeper, and other required services.
 
