@@ -1,77 +1,87 @@
-# Project 2 Kafka-Spark
-## Big Data Streaming System for Udemy Course Clustering
+# Project 2: Kafka-Spark  
 
+### Big Data Streaming System for Udemy Course Clustering
+### Project Members
 | Nama                            | NRP          |
 | ------------------------------- | ------------ |
 | Marcelinus Alvinanda Chrisantya | `5027221012` |
 | Etha Felisya Br Purba           | `5027221017` |
 | Fazrul Ahmad Fadhilah           | `5027221025` |
 
+---
+
 ## Project Overview
-Proyek ini mengimplementasikan sistem Big Data streaming menggunakan **Apache Kafka** dan **Apache Spark** untuk simulasi pemrosesan data stream dan pelatihan model clustering. Dataset yang digunakan adalah data kursus Udemy dengan tujuan mengelompokkan kursus berdasarkan metrik tertentu, seperti popularitas, tingkat kesulitan, dan tren waktu.
+This project implements a Big Data streaming system using **Apache Kafka** and **Apache Spark** to simulate data stream processing and perform clustering on Udemy course data. The aim is to group courses based on specific metrics, such as popularity, difficulty level, and temporal trends.
+
+---
 
 ## Dataset
-Dataset yang digunakan mencakup informasi berikut:
-- **course_id**: ID unik untuk setiap kursus.
-- **course_title**: Judul kursus.
-- **url**: Link langsung ke kursus di Udemy.
-- **is_paid**: Status berbayar atau gratis.
-- **price**: Harga kursus (jika berbayar).
-- **num_subscribers**: Jumlah subscriber kursus.
-- **num_reviews**: Jumlah review dari peserta kursus.
-- **num_lectures**: Jumlah lecture dalam kursus.
-- **level**: Tingkat kesulitan kursus (Beginner, Intermediate, Expert).
-- **content_duration**: Durasi total konten kursus dalam jam.
-- **published_timestamp**: Waktu publikasi kursus di Udemy.
-- **subject**: Kategori utama kursus (misalnya, Bisnis, Teknologi).
+The dataset used contains information about Udemy courses with the following columns:
 
+- **course_id**: Unique identifier for each course.
+- **course_title**: Title of the course.
+- **url**: Direct link to the course.
+- **is_paid**: Indicates if the course is free or paid.
+- **price**: Course price (if paid).
+- **num_subscribers**: Total number of subscribers.
+- **num_reviews**: Number of reviews.
+- **num_lectures**: Total lectures in the course.
+- **level**: Difficulty level (e.g., Beginner, Intermediate, Expert).
+- **content_duration**: Total content duration in hours.
+- **published_timestamp**: Date and time of publication.
+- **subject**: Main category or subject area (e.g., Business, Technology).
+
+---
 
 ## Clustering Models
-Proyek ini menghasilkan tiga model clustering menggunakan fitur yang berbeda. Berikut adalah deskripsi model yang dibuat:
-### 1. Clustering Berdasarkan Popularitas dan Engagement Kursus
-   - **Fitur**: `num_subscribers`, `num_reviews`, `num_lectures`, `content_duration`
-   - **Tujuan**: Mengelompokkan kursus berdasarkan popularitas dan tingkat engagement.
-   - **Penggunaan**: Mengidentifikasi kursus yang sangat populer dan menganalisis faktor-faktor yang membuatnya menonjol.
+Three clustering models were developed to group courses based on different features:
 
-### 2. Clustering Berdasarkan Tingkat Kesulitan dan Konten Kursus
-   - **Fitur**: `level`, `num_lectures`, `content_duration`
-   - **Tujuan**: Mengelompokkan kursus berdasarkan tingkat kesulitan dan kedalaman konten.
-   - **Penggunaan**: Membantu mengkategorikan kursus ke dalam kelompok pemula, menengah, dan lanjutan.
+### 1. Clustering by Popularity and Engagement
+   - **Features**: `num_subscribers`, `num_reviews`, `num_lectures`, `content_duration`
+   - **Goal**: To group courses based on their popularity and engagement metrics.
+   - **Usage**: Identifies highly popular courses and analyzes factors that make them stand out.
 
-### 3. Clustering Berdasarkan Tren Waktu untuk Kursus
-   - **Fitur**: `published_timestamp`, `num_subscribers`, `num_reviews`
-   - **Tujuan**: Mengelompokkan kursus berdasarkan tren waktu untuk memahami popularitas kursus dalam kurun waktu tertentu.
-   - **Penggunaan**: Mengungkap tren pada topik-topik yang populer atau menurun.
+### 2. Clustering by Difficulty Level and Content
+   - **Features**: `level`, `num_lectures`, `content_duration`
+   - **Goal**: To categorize courses into beginner, intermediate, and advanced groups based on difficulty and content depth.
+   - **Usage**: Helps users find courses that match their skill level.
 
+### 3. Clustering by Temporal Trends
+   - **Features**: `published_timestamp`, `num_subscribers`, `num_reviews`
+   - **Goal**: To understand the popularity trends of courses over time.
+   - **Usage**: Reveals insights into trending or declining topics.
 
+---
 
 ## Workflow
 
-1. **Docker Setup**: 
-   - File `docker-compose.yaml` digunakan untuk menjalankan kontainer Kafka, Zookeeper, dan layanan pendukung lainnya.
+1. **Docker Setup**  
+   - The `docker-compose.yaml` file is used to start Kafka, Zookeeper, and other required services.
 
-2. **Kafka Producer**:
-   - File `kafka-producer.py` di dalam folder `kafka-producer` membaca dataset (`udemy_courses_dataset.csv`) secara sekuensial dan mengirim data baris demi baris ke Kafka server dengan jeda acak, untuk mensimulasikan proses streaming.
-   - Dataset diproses dan dibagi menjadi tiga batch (`batch_1.csv`, `batch_2.csv`, `batch_3.csv`) yang disimpan di folder `dataset/batch-dataset`.
+2. **Kafka Producer**  
+   - The `kafka-producer.py` script in the `kafka-producer` folder reads the dataset (`udemy_courses_dataset.csv`) sequentially and sends data row by row to the Kafka server with random delays to simulate streaming.
+   - The dataset is split into three batches (`batch_1.csv`, `batch_2.csv`, `batch_3.csv`), stored in the `dataset/batch-dataset` folder.
 
-3. **Kafka Consumer**:
-   - File `kafka-consumer.py` di dalam folder `kafka-consumer` membaca data dari Kafka server dan menyimpannya ke dalam batch sesuai dengan konfigurasi yang ditentukan.
+3. **Kafka Consumer**  
+   - The `kafka-consumer.py` script in the `kafka-consumer` folder reads data from the Kafka server and saves it into batches according to the specified configuration.
 
-4. **Model Training**:
-   - Model KMeans dilatih menggunakan Spark berdasarkan batch data yang telah disimpan.
-   - Tiga notebook (`model-1.ipynb`, `model-2.ipynb`, `model-3.ipynb`) berisi proses pelatihan model Spark KMeans untuk masing-masing batch. Model yang dihasilkan disimpan di folder `kafka-model`:
-     - `spark_kmeans_model_a`: Hasil pelatihan model untuk batch pertama.
-     - `spark_kmeans_model_b`: Hasil pelatihan model untuk batch kedua.
-     - `spark_kmeans_model_c`: Hasil pelatihan model untuk batch ketiga.
+4. **Model Training**  
+   - The KMeans model is trained using Spark on each data batch.
+   - Three notebooks (`model-1.ipynb`, `model-2.ipynb`, `model-3.ipynb`) handle the training process for each batch, saving the resulting models in the `kafka-model` folder:
+     - `spark_kmeans_model_a`: Model trained on the first batch.
+     - `spark_kmeans_model_b`: Model trained on the second batch.
+     - `spark_kmeans_model_c`: Model trained on the third batch.
 
-5. **API Development**:
-   - File `api.py` digunakan untuk mengimplementasikan API yang menyediakan endpoint untuk setiap model clustering. Endpoint ini menerima input dari pengguna dan memberikan hasil clustering sesuai model yang dilatih.
+5. **API Development**  
+   - The `api.py` file implements an API to provide endpoints for each clustering model. The endpoints accept user input and return clustering results based on the trained models.
+
+---
 
 ## API Endpoints
 
 1. **Endpoint 1: `/course_popularity`**
-   - Menggunakan fitur `num_subscribers`, `num_reviews`, `num_lectures`, dan `content_duration` sebagai input.
-   - Contoh permintaan:
+   - **Description**: Uses features `num_subscribers`, `num_reviews`, `num_lectures`, and `content_duration`.
+   - **Example Request**:
      ```bash
      curl -X POST "http://127.0.0.1:5000/course_popularity" -H "Content-Type: application/json" -d '{
        "num_subscribers": "10000",
@@ -82,8 +92,8 @@ Proyek ini menghasilkan tiga model clustering menggunakan fitur yang berbeda. Be
      ```
 
 2. **Endpoint 2: `/course_difficulty`**
-   - Menggunakan fitur `num_subscribers`, `num_reviews`, `num_lectures`, dan `content_duration` sebagai input.
-   - Contoh permintaan:
+   - **Description**: Uses features `num_subscribers`, `num_reviews`, `num_lectures`, and `content_duration`.
+   - **Example Request**:
      ```bash
      curl -X POST "http://127.0.0.1:5000/course_difficulty" -H "Content-Type: application/json" -d '{
        "num_subscribers": "5000",
@@ -94,8 +104,8 @@ Proyek ini menghasilkan tiga model clustering menggunakan fitur yang berbeda. Be
      ```
 
 3. **Endpoint 3: `/course_price_analysis`**
-   - Menggunakan fitur `price`, `num_subscribers`, `num_reviews`, dan `content_duration` sebagai input.
-   - Contoh permintaan:
+   - **Description**: Uses features `price`, `num_subscribers`, `num_reviews`, and `content_duration`.
+   - **Example Request**:
      ```bash
      curl -X POST "http://127.0.0.1:5000/course_price_analysis" -H "Content-Type: application/json" -d '{
        "price": "200.0",
@@ -105,23 +115,50 @@ Proyek ini menghasilkan tiga model clustering menggunakan fitur yang berbeda. Be
      }'
      ```
 
+---
+
 ## How to Run the Project
 
-1. **Start Docker Services**:
-   - Jalankan perintah berikut untuk memulai Kafka dan layanan terkait.
+1. **Start Docker Services**  
+   - Run the following command to start Kafka and related services:
      ```bash
      docker-compose up -d
      ```
 
-2. **Run Kafka Producer**:
-   - Eksekusi `kafka-producer.py` untuk mengirim data secara streaming ke Kafka.
-   
-3. **Run Kafka Consumer**:
-   - Jalankan `kafka-consumer.py` untuk membaca data dari Kafka dan menyimpannya sebagai batch.
+2. **Run Kafka Producer**  
+   - Execute `kafka-producer.py` to stream data to Kafka.
 
-4. **Train Models**:
-   - Jalankan masing-masing notebook (`model-1.ipynb`, `model-2.ipynb`, `model-3.ipynb`) untuk melatih model berdasarkan batch data yang sudah dibuat.
+3. **Run Kafka Consumer**  
+   - Execute `kafka-consumer.py` to read data from Kafka and store it in batches.
 
-5. **Start API Server**:
-   - Jalankan `api.py` untuk memulai server API yang menyediakan endpoint untuk setiap model clustering.
+4. **Train Models**  
+   - Run each notebook (`model-1.ipynb`, `model-2.ipynb`, `model-3.ipynb`) to train models based on each data batch.
 
+5. **Start API Server**  
+   - Run `api.py` to start the API server, providing endpoints for each clustering model.
+
+---
+
+## Requirements
+
+- **Docker** and **Docker Compose**
+- **Apache Kafka**
+- **Apache Spark**
+- **Python** (version compatible)
+- **Dependencies**: `pyspark`, `kafka-python`, `flask`
+
+---
+
+## Results
+The clustering results and trend analysis can be found in the `/results` directory. This includes cluster information, visualizations, and relevant recommendations.
+
+---
+
+## Future Work
+- Improve model accuracy and API performance.
+- Add additional API features, such as analysis based on user ratings.
+
+---
+
+## License
+This project is licensed under the [MIT License](LICENSE).
